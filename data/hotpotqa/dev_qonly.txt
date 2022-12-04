@@ -1,0 +1,300 @@
+Are both Forman Christian College and Purbanchal University public schools?	no </s>
+Do D-A-D and Gândul Mâței play the same style of rock music?	no </s>
+Are Black and New Found Glory from the same country?	no </s>
+Do Cathy Berberian and Dickran Tevrizian share the same profession ?	no </s>
+Were both Sinclair Research and the Wave Mate Bullet founded in the 1970s?	yes </s>
+Are both George Duran and Ara Babajian famous chefs?	no </s>
+Are Broughtonia and Laeliocattleya both orchids?	yes </s>
+Did John Updike and Tom Clancy both publish more than 15 bestselling novels?	yes </s>
+Are Pothos and Tibouchina Aubl both flowering genus of plants?	yes </s>
+Is Northeast Florida Regional Airport farther from St. Augustine than Glacier Park International Airport is to Kalispell?	no </s>
+Are both "Cooking Light" and "Vibe" magazines?	yes </s>
+Are York Minster and Brentwood Cathedral in the same country?	yes </s>
+Are Colocasia and Coronilla both flowering plants?	yes </s>
+Did both the Beaulieu Mine and Colomac Mine fall into bankruptcy?	yes </s>
+Are George Stevens and Luc Besson American cinematographers?	no </s>
+Are Steve Perry and Leslie West both singers?	yes </s>
+Did the the Battle of Stones River occur before the Battle of Saipan?	yes </s>
+Does Il trovatore have less acts than La rondine	no </s>
+Are Greater Swiss Mountain Dog and Harrier both dog breeds?	yes </s>
+Were Ulrich Walter and Léopold Eyharts both from Germany?	no </s>
+Are Alice Munro and Lillian Hellman both writers?	yes </s>
+Are Maki Nomiya and Conrad Lant both considered musicians?	yes </s>
+Are Hot Rod and The Memory of Our People both magazines?	yes </s>
+Are Mirpur University of Science and Technology and University of Debrecen both Universities located outside of the United States?	yes </s>
+Are Random House Tower and 888 7th Avenue both used for real estate?	no </s>
+Are Prológica CP-400 and Atari ST both personal computers?	yes </s>
+Are Lance King and Han Seung-yeon both heavy metal vocalists?	no </s>
+Do the genuses Catopsis and Crataegus belong to the same family? 	no </s>
+Are both Ride a Wild Pony and Frozen 2 computer-animated films?	no </s>
+Are Leopold Lummerstorfer and Valeria Sarmiento both authors?	no </s>
+Are Jeff Ragsdale and Millard Webb both authors?	no </s>
+Are both Jonathan Marray and Wayne Black British?	no </s>
+Are Jim Lindberg and Alison Moyet singers of the same nationality?	no </s>
+Are The Writer and Jewish Currents both magazines ?	yes </s>
+Are both Bird Talk and Decibel monthly magazines about birds?	no </s>
+Are Harry Everett Smith and Vladimir Danilevich both from Russia?	no </s>
+Are both Cynthia Mort and George Archainbaud American?	yes </s>
+Do Singapore Sling and Fish House Punch both contain alcohol?	yes </s>
+Are Nikolaschka and White Russian made of beer?	no </s>
+are the documentaries Out of Place and The Mosuo Sisters by the same director ?	no </s>
+Are Phlebodium and Pieris both species of ferns?	no </s>
+Do both Korematsu v. United States and Chaplinsky v. New Hampshire cases regard the rights of U. S. citizens?	yes </s>
+Are Wake Forest University and Pennsylvania State University both located in the US?	yes </s>
+Are Guildford Cathedral and St Paul's Cathedral both located in England?	yes </s>
+Are Norman Z. McLeod and Sam Wanamaker both directors?	yes </s>
+Are Out Traveler and Reader's Digest both magazines?	yes </s>
+Are Bamboo Mañalac and Danny Jones both musicians?	yes </s>
+Do the bands named Phoenix and Shearwater specialize in the exact same genre?	no </s>
+Are Brainerd Lakes Regional Airport and Sawyer International Airport located in Europe?	no </s>
+Are Southwest Florida International Airport and Henry E. Rohlsen Airport both in Florida?	no </s>
+Are the genera Gordonia and Osbeckia in the same family?	no </s>
+Does Lucozade pre-date Hires Root Beer? 	no </s>
+Were Frank Tashlin and George Kuchar both animators?	no </s>
+Are The Limousines and Faith No More from the same state?	yes </s>
+Are Aladdin and Song of the South produced by the same company?	yes </s>
+Are Roger Waters and Tom Johnston both musicians?	yes </s>
+Are both Cypress and Ajuga genera?	no </s>
+Is the Virgilia found in Africa? And is Koeleria found all over?	yes </s>
+Were Sound Team and Dead by Sunrise both formed before 2010? 	yes </s>
+Are K. Subash and Jason Bateman from the same country?	no </s>
+Are Asimov's Science Fiction and The Christian Science Sentinel both magazines?	yes </s>
+Do the University of Florida and University of Texas System combine to have both a 2000 acre campus and over 216,000 students?	yes </s>
+Are both genera Silphium and Heliotropium, genera of flowering plants ?	yes </s>
+Are Florida Atlantic University and Cleveland State University both colleges in the US?	yes </s>
+Do The Importance of Being Icelandic and The Five Obstructions belong to different film genres ?	no </s>
+Are Jonathan Demme and Chris Renaud both American filmmakers?	yes </s>
+Are both the Wire Fox Terrier and West Siberian Laika dog breeds?	yes </s>
+Were Shadows Over Camelot and Battle Sheep released by the same publisher?	no </s>
+Are the libretto of Tristan und Isolde and Ariane et Barbe-bleue in the same language?	no </s>
+Are both Götterdämmerung and Dafne considered operas?	no </s>
+Are Agee and To Shoot an Elephant both documentaries about war?	no </s>
+Are Ranger Rick and Tennis both sports magazines?	no </s>
+Are PC Magazine and Sculptural Pursuit both technology publications?	no </s>
+Are Power Grid and Vanished Planet both cooperative board games?	no </s>
+Are Hoodoo Gurus and Pierre Bouvier of the same nationality?	no </s>
+Do both Michael Herz, and Roland Emmerich direct comedic horror films?	no </s>
+Were both Monkey Kingdom and Anaganaga O Dheerudu connected with Disney?	yes </s>
+Are both Smoking Bishop and Caipirinha beverages?	yes </s>
+Were Max Jacob and Connie May Fowler both memoirists?	no </s>
+Are William Kronick and Jon Turteltaub both television writers ?	no </s>
+Are Andrew Stevens and Charles Burnett both American?	yes </s>
+Are Castor et Pollux and Manon Lescaut composed by the same people?	no </s>
+Are Ainslee's Magazine and The Australian Women's Weekly both monthly magazines?	yes </s>
+Are Tim Rice and Leslie Marmon Silko both lyricists?	no </s>
+Do both Changle District and Longkou face water?	yes </s>
+Are Freakonomics and In the Realm of the Hackers both American documentaries?	no </s>
+Has Stefan Edberg won more events than  Édouard Roger-Vasselin?	yes </s>
+Are Yingkou and Fuding the same level of city?	no </s>
+Is Karjiang a mountain and Sherpi Kangri a mountain peak?	yes </s>
+Were both Prince and Patty Jenkins have been inducted into the Rock and Roll Hall of Fame?	no </s>
+Have Jelena Janković and Marat Safin both played tennis professionally?	yes </s>
+Were The Bomb and Rolling Papers released in the same year?	yes </s>
+Are Pterostyrax and Dregea both native to Asia?	yes </s>
+Was Cars 2 released by the same company which used songs written by Lin-Manuel Miranda in another of its movies?	yes </s>
+Were Goo Goo Dolls and Echosmith formed in the same city?	no </s>
+Was 9/11: Press for Truth released prior to Chasing Coral?	yes </s>
+Are the flowering plants Ecballium and Elatostema in the same family?	no </s>
+Did the playwrights Eugène Ionesco and Paul Scott live during the same time period?	yes </s>
+Were Triumph of the Will and The End of America both made in the same year?	no </s>
+Are Buried Country and South of the Border both films turned into stage performances?	no </s>
+Are Super High Me and All in This Tea both documentaries?	yes </s>
+Is The Devils of Loudun and Maskarade both operas?	yes </s>
+Were Scott Derrickson and Ed Wood of the same nationality?	yes </s>
+Do both Kettering University and University of New Mexico offer post-secondary degrees?	yes </s>
+Do both Adventist World and Girls' Life have a headquarter or editor based in Maryland?	yes </s>
+Are both Yangzhou and Jiangyan District considered coastal cities?	no </s>
+Do writers John O'Hara and Bobbie Ann Mason share the same nationality?	yes </s>
+Are Parents and Madame Figaro published in the same country?	no </s>
+Are both Jim McBride and Neil Jordan American?	no </s>
+Were the documentaries  One Big Hapa Family and A Film Unfinished directed by the same person?	no </s>
+Were Gregory La Cava and Mike Judge both actors? 	no </s>
+Are Brooklyn and Tower 49 both part of New York City?	yes </s>
+Are both American Foxhound and Löwchen types of Foxhounds?	no </s>
+Were Thomas H. Ince and Joseph McGrath of the same nationality?	no </s>
+Are Über Goober and American Jobs both documentaries about gaming?	no </s>
+Are San Antonio International Airport and Yakutat Airport in the same country?	yes </s>
+Are Staten Island Catapult and This Is Elvis both documentaries?	yes </s>
+Have filmmakers Enrico Cocozza and Mira Nair both been nominated for awards for their work?	yes </s>
+Were Jeff Martin and Kyle Patrick both in The Click Five?	no </s>
+Are both Weberocereus and Conospermum part of the same genus?	no </s>
+Are Local H and For Against both from the United States?	yes </s>
+Are both Deerhunter and Nine Lashes American Christian rock bands?	no </s>
+Are Ferocactus and Silene both types of plant?	yes </s>
+Are Anja Salomonowitz and Rod Lurie both directors?	yes </s>
+Are Ana Kasparian and Katherine Sarafian both Armenian-	yes </s>
+Do the drinks Gibson and Zurracapote both contain gin?	no </s>
+Were both magazines Diva and Cleo founded in the same country?	no </s>
+Are both Aloinopsis and Eriogonum ice plants?	no </s>
+Are Denzel Washington and David Hewlett both actors?	yes </s>
+did Robert Wise have more award nominations than Zoltan Korda?	yes </s>
+Were either Hou Hsiao-hsien or Kenny Ortega winners of an Academy Award?	no </s>
+Do Bloody Mary and Sidecar share any ingredients in common?	no </s>
+Are both Delmer Daves and Jean-Pierre Jeunet film directors?	yes </s>
+Is Carnegie Hall Tower located in the same city as Staten Island?	yes </s>
+Was Pocahontas made before Born in China?	yes </s>
+Are Willard Mack and Subhash Ghai both involved in film?	yes </s>
+Are both Dziga Vertov and Roger Donaldson are involved in the film industry?	yes </s>
+Where operation Operation Dragoon and Battle of Cold Harbor fought during to different wars?	yes </s>
+Are both The Straight Story and Frozen films of the same genre?	no </s>
+are Mikhail Glinka and Jean-Baptiste Lully both composers ?	yes </s>
+Are Chlidanthus and Maianthemum both flowering plants?	yes </s>
+Were both the Battle of Saipan and the Battle of Manila fought by American forces?	yes </s>
+Are Danie Visser and Oliver Marach both Grand Slam tennis tournament winners at doubles?	no </s>
+Are both The Sundays and The Radio Dept. dream pop bands? 	no </s>
+Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?	yes </s>
+Is Bob Hewitt a citizen of a different country than Ray Ruffels?	yes </s>
+Are Even and Incubus known for their skill in classical music?	no </s>
+Are Columbia University and University of Colorado both private universities? 	no </s>
+Were both the One, Inc. v. Olesen and  Erie Railroad Co. v. Tompkins cases ones that included a ruling by the United States Supreme Court?	yes </s>
+Do the operas Vanessa and Le roi malgré lui contain that same number of acts?	yes </s>
+Were Basil Dean and Francis Ford Coppola both alive at some point in time?	yes </s>
+Were both Terence Fisher and Leopoldo Torre Nilsson British film directors?	no </s>
+Are both Snowboard Magazine and The Believer sporting magazines?	no </s>
+Are Distortion Mirrors and OK Go both considered rock bands?	yes </s>
+Are Stephen Frears and Jan Švankmajer from the same country?	no </s>
+Are both movies Nerdcore Rising and What Would Jesus Buy? focused on similar topics?	no </s>
+Are University of Virginia and Massachusetts Institute of Technology in the same country?	yes </s>
+Are both Rutgers University and Carnegie Mellon University located in America?	yes </s>
+Do tennis players Kathy Jordan and Sergi Bruguera have the same nationality?	no </s>
+Do Xinghua, Jiangsu and Jingdezhen both border the same town to the north?	no </s>
+Is there fruit juice in both a Fizz and a Painkiller cocktail?	yes </s>
+Are both Papa John's Pizza and Papa Gino's specialized in Pizza?	yes </s>
+Were H. G. Wells and Rubén Darío both English?	no </s>
+Are Affenpinscher and Villanuco de Las Encartaciones both breeds of dog?	yes </s>
+Are both Odds and Supergrass rock bands?	yes </s>
+Are Tweedia and Crossandra in separate families?	yes </s>
+Were both documentaries, Loot and Air Force, Incorporated, released in the same year?	no </s>
+Are either Edward H. Griffith or Edward Burns from Germany?	no </s>
+Are Daryl Hall and Gerry Marsden both musicians?	yes </s>
+Both Sorbaria and Goldenrod are a genus of more than 50 flowering plants?	no </s>
+Are Villa Paletti and Betrayal at House on the Hill both board games?	yes </s>
+Are Bitter Jester and The Future of Food both documentaries about food?	no </s>
+Were Illinois Institute of Technology and Boise State University both bounded before 1950?	yes </s>
+Are Trent Edwards and Lucy Saroyan both football players?	no </s>
+Pravda and Stiffelio are both operas?	no </s>
+Are Ruggero Deodato from Italy, and Mexican Alejandro Springall, both film directors?	yes </s>
+Were the Commodore 16 and Prológica CP-400 from the same country?	no </s>
+Do Lush and P.O.D. both consist of four band members?	yes </s>
+Are Nathalie Sarraute and Anchee Min both writers?	yes </s>
+Are the 1908 Ex parte Young and 1948 McCollum v. Board of Education United States Supreme Court cases related to each other in any way?	no </s>
+Are Yoo-hoo and Faygo both carbonated drinks?	no </s>
+Does Linzhou, Henan have a larger population than Xingcheng?	yes </s>
+Are Cryptanthus and Gagea, both a genus?	yes </s>
+Are both Disney Magazine and The Ring still in publication?	no </s>
+Are 111 Murray Street and 220 Central Park South both located in Manhattan?	yes </s>
+Are Broughtonia and Perilla both types of mint?	no </s>
+Are the Chien Français Blanc et Orange and Cretan Hound both used for hunting in packs?	no </s>
+Are David O. Russell and Tony Gatlif from the same country?	no </s>
+Are Catasetum and Origanum in the same family?	no </s>
+Were Halldór Laxness and Timothy Leary from the same country?	no </s>
+Are Wolfgang Becker and Paul Andrew Williams both film directors?	yes </s>
+Are both Adolfo Bioy Casares and James Norman Hall Argentinian authors?	no </s>
+Are Kalenderhane Mosque and Galata Bridge both located in Istanbul?	yes </s>
+Did Minersville School District v. Gobitis and Gravel v. United States occur in the same decade?	no </s>
+Are both Leycesteria and Anigozanthos native to Australia?	no </s>
+Are either The Pogues or Pillar an electronic dance music group?	no </s>
+are Tinto Brass and Baltasar Kormákur both from the same country ?	no </s>
+Was the band The Shins formed before the band Paramore?  	yes </s>
+Are both Jack and Coke and Clover Club Cocktail cocktails?	yes </s>
+Are Milk Lake, Taiwan and Larnaca Salt Lake both located in Asia?	no </s>
+Are Ash Lieb and Elswyth Thane both artists?	no </s>
+Did both  Slaughter-House Cases and United States v. Darby Lumber Co. involve civil rights law?	no </s>
+Are both Trace Cyrus and Jizzy Pearl vocalists?	yes </s>
+Do Czesław Miłosz and Nathalie Sarraute have the same nationality?	no </s>
+Are both Grapico and Izze artificially flavored soft drinks?	no </s>
+Have tennis players Françoise Dürr and Mate Pavić both won a doubles title?	yes </s>
+Did the band Daniel Amos experiment with the same genre of music performed by Digital Summer?	no </s>
+Are both Alabama Slammer and Yorsh non alcoholic drinks?	no </s>
+Are both Helen Dunmore and M. P. Shiel of West Indian descent?	no </s>
+Are Robert Philibosian and David Ignatius both politicians?	no </s>
+Are Ganzhou and Jimo District both located in China?	yes </s>
+Are Peter Balakian and James Der Derian both teachers?	yes </s>
+Were Robert Holdstock and H. L. Mencken both known for being satirists?	no </s>
+Has Entrepreneur had a longer lifespan than Optimize?	yes </s>
+Are Tantrix and Personal Preference both types of games?	yes </s>
+Are Centaurium and Dacrydium both genuses of plant species?	yes </s>
+Are both Parodia and Thalictrum flowering plants?	yes </s>
+Do both Icehouse pieces and El Grande come from the same game?	no </s>
+Are Myles Kennedy and SafetySuit both associated with rock bands?	yes </s>
+Is the building located at 200 West Street taller than the one at 888 7th Avenue?	yes </s>
+Are Stanley Elkin and Anne Tyler from the same country?	yes </s>
+Do Dillingham Airport and Rafael Hernández Airport both handle civilian (passenger) service?	yes </s>
+Are Maro Ajemian and Patricia Field both pianists?	no </s>
+Are Sandy Mayer and Billy Martin both more successful at doubles than singles, in terms of tournament wins?	yes </s>
+Are Skeptical Inquirer and The Progressive Populist both tabloid-style magazines?	no </s>
+Were the films Crazy Love and Welcome to Nollywood both released in 2008?	no </s>
+Are both Dafeng District and Dazhou located in the same province?	no </s>
+Are Ballota and Myosotis both evergreens?	no </s>
+Are Der Rosenkavalier and I Capuleti e i Montecchi both comic operas?	no </s>
+Are both Upper Crust Pizzeria and Eatza Pizza restaurants?	yes </s>
+Are both Dictyosperma, and Huernia described as a genus?	yes </s>
+Are Jiujiang, Guangdong and Ruzhou located in the same Chinese district?	no </s>
+Is it correct to state that Tetrapanax is an evergreen shrub as opposed to Hippophae which is a genus of sea buckthorns, a deciduous shrub?	yes </s>
+Were the bands Skin Yard and Ostava from the U.S.?	no </s>
+Are Robin Wilson and Adrienne Bailon of the same nationality? 	yes </s>
+Are both Coldplay and Pierre Bouvier from the same country?	no </s>
+Were Joss Whedon and Norman Mailer both Americans?	yes </s>
+Is The Moon-Spinners and Oceans both documentaries?	no </s>
+Are Yucca and Rodgersia both perennials?	yes </s>
+Are Des Moines International Airport and Grand Canyon National Park Airport both major airline hubs?	no </s>
+Did the Sandy and Beaver Canal remain operational until a later date than the Los Angeles Aqueduct?	no </s>
+Where Ken Kwapis and John Woo both working on films in the 1980's?	yes </s>
+Could you read both Bicycling and National Review	yes </s>
+Were both the Battle of Stones River and the Battle of the Ch'ongch'on River fought in the 19th century?	no </s>
+Are Tim Rice and Kathy Acker both from America?	no </s>
+Are Fabián Bielinsky and Nelson Pereira dos Santos both directors?	yes </s>
+Are Eve Beglarian and Zach Bogosian both of Armenian descent?	yes </s>
+Were Will Durant and Margaret Mitchell both philosophical writers?	no </s>
+Are both Duke Energy and Affiliated Managers Group based in Massachusetts?	no </s>
+Are Waste Land and Shikashika both types of drinks?	no </s>
+Are Hanafuda and Okey both card games?	no </s>
+Are Cardinal Health and Kansas City Southern located in the same state?	no </s>
+Are Sunset Strip and American Hardcore both music documentaries?	no </s>
+Are both Schweizerischer Niederlaufhund and Portuguese Podengo dog breeds from Portugal?	no </s>
+Is Edison Sault Power Canal somehow linked with or used with the Cayuga–Seneca Canal?	no </s>
+Are The Datsuns and The Black Crowes both rock bands?	yes </s>
+Are both Stacey McClean and Biff Byford American singer?	no </s>
+Are Francis Ford Coppola and Jack Hill both American?	yes </s>
+Were both Peter Duffell and Fred Niblo actors?	yes </s>
+Were Paul Éluard and Georges Bataille from the same country?	yes </s>
+Are Mobile Regional Airport and Hoonah Airport located in California?	no </s>
+Do Ray Wilson and Leo have the same nationality ?	no </s>
+Are Richard Yardumian and Edward Khantzian both Harvard psychiatry professors?	no </s>
+Are both Stanley Elkin and Anne Lamott non-fiction writers? 	no </s>
+Are TEC-1 and Dubna 48K are based on the same processor?	yes </s>
+Are Toshi and Warrel Dane both in the band Sanctuary?	no </s>
+Are Rob Parissi and Robert Pollard both musicians	yes </s>
+Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?	no </s>
+Was Rudolf Schwarzkogler closely associated with the Viennese Actionism group, while Howard Zieff was an American television commercial director?	yes </s>
+Were Darby O'Gill and the Little People and Dangal only produced by Walt Disney Pictures?	no </s>
+Are Sutera and Rhodotypos both types of shrub?	no </s>
+Are Alek Keshishian and Kirk Kerkorian both Armenian-American?	yes </s>
+Were Daniel Mann and Todd Solondz both directors?	yes </s>
+Are Ian Brown and Dee Snider both actors?	no </s>
+Are Mauritz Stiller and Johannes Grenzfurthner both of the same nationality?	no </s>
+Are  Chrysalis and Look both women's magazines?	yes </s>
+Are both Kyosuke Himuro and Boy George musicians from the 1980s?	yes </s>
+Are Macheng and Lianjiang, Guangdong both cities ?	yes </s>
+Are the Prince of Wales and Flaming beverage both non-alcoholic drinks?	no </s>
+Can Stenocereus and Pachypodium both include tree like plants?	yes </s>
+Are both the flowering plants Desfontainia and Alisma  in the family Potaliaceae?	no </s>
+Were both Life magazine and Strictly Slots magazine published monthly in 1998?	yes </s>
+Are McFarland, USA and The Black Hole both sports films?	no </s>
+Are Horace Ové and A. Edward Sutherland both photographers?	no </s>
+Are both Lygodium or Maxillaria a genus of orchids?	no </s>
+Do both Lee Tamahori and Robert Redford work as a director?	yes </s>
+Are both Stephen R. Donaldson and Michael Moorcock science fiction writers?	yes </s>
+Was the documentary labeled "The River"have the same reasoning to be made as the documentary labeled "Crazy English?"	no </s>
+Do Matthew Good Band and Sleep Room play the same type of music?	yes </s>
+Are Vintage Life and InStyle both US-based magazines?	no </s>
+Are both Elko Regional Airport and Gerald R. Ford International Airport located in Michigan?	no </s>
+Are Benjamin Britten and Béla Bartók from the same country?	no </s>
+Are Northwestern University and Middlebury College both private schools?	yes </s>
+Are the bands "Black Grape" and "Balance and Composure" from the same country?	no </s>
+Were the Tundra Mine and Negus Mine located in the same country?	yes </s>
+Are both Don Giovanni and Cardillac operas with three acts?	no </s>
+Were Enrique Carreras and Lionel Ngakane both filmakers during the 20th century? 	yes </s>
+Were Chad Gray and Dickie Peterson both singers?	yes </s>
+Are Mike Bryan and Ray Ruffels both tennis players?	yes </s>
+Are John le Carré and Tim Winton both novelists?	yes </s>

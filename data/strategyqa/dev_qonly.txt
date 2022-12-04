@@ -1,0 +1,229 @@
+Will the Albany in Georgia reach a hundred thousand occupants before the one in New York?	no </s>
+Is the language used in Saint Vincent and the Grenadines rooted in English?	yes </s>
+Is greed the most prevalent of the Seven Deadly Sins?	no </s>
+Would the top of Mount Fuji stick out of the Sea of Japan? 	yes </s>
+Was Lil Jon's top ranked Billboard song a collaboration with a member of The Lox?	no </s>
+Is Miami a city on the American West Coast?	no </s>
+Can the Swiss Guard fill the Virginia General Assembly chairs?	no </s>
+Did any country in Portuguese Colonial War share Switzerlands role in WWII?	yes </s>
+Would a Pict be confused by Old English?	yes </s>
+Could Lil Wayne legally operate a vehicle on his own at the beginning of his career?	no </s>
+Are you likely to find a crucifix in Karachi?	no </s>
+Was a person sold a Creative Commons License for Boticelli's The Birth of Venus ripped off?	yes </s>
+Could ten gallons of seawater crush a six year old?	yes </s>
+Do more anchovy live in colder temperature waters than warmer?	no </s>
+Is 3D printing able to make adenovirus?	no </s>
+Would George Fox support stoning?	no </s>
+Is watching  Star Wars necessary to know who Darth Vader is?	no </s>
+Can a computer be programmed entirely in Boolean algebra?	yes </s>
+Did Christina Aguilera turn her chair around for Kelly Clarkson on The Voice?	no </s>
+Would Amy Winehouse's death have been prevented with Narcan?	no </s>
+Does a mongoose have natural camouflage for desert?	yes </s>
+If someone loves buffalo wings do they enjoy capsaicin?	yes </s>
+Was Bruce Lee absent from the 1964 University of Washington graduation ceremony?	yes </s>
+Could Brooke Shields succeed at University of Pennsylvania?	yes </s>
+Would students at Marist have to petition to get a rowing team?	no </s>
+Could a hundred thousand lolcats fit on a first generation iPhone?	yes </s>
+Does Rusev have to worry about human overpopulation in his homeland?	no </s>
+Does Princess Peach's dress resemble a peach fruit?	no </s>
+Are psychiatric patients welcome to join the United States Air Force?	no </s>
+Can I hold Bing in a basket?	no </s>
+Does the central processing unit usually have a dedicated fan?	yes </s>
+Can Cyril Ramaphosa become Secretary General of NATO?	no </s>
+Is Brooklyn known for its bread products?	yes </s>
+Did the Royal Air Force fight in the Boxer Rebellion?	no </s>
+Did François Mitterrand serve under Napoleon Bonapart in the French army?	no </s>
+Can amoebas get cancer?	no </s>
+Is Cholera alive?	yes </s>
+Would someone typically confuse a sweet potato with a pineapple?	no </s>
+Would it be common to find a penguin in Miami?	no </s>
+Are tumors in the lymph nodes ignorable?	no </s>
+Did Spiderman fight against Falcon in the MCU?	yes </s>
+Is Shiva's divine dance an ancient physical fitness pose?	no </s>
+Do hyenas appear in a Broadway musical?	yes </s>
+Would an owl monkey enjoy a strawberry?	yes </s>
+Can a snake swallow an M60 Patton?	no </s>
+Would Avengers Comics be out of place in a DC Comics store?	yes </s>
+Can the Persian Gulf fit in New Jersey?	no </s>
+Is Nicole Kidman ideal choice to play Psylocke based on height and weight?	yes </s>
+Could Bernie Sanders visit the Metropolitan Museum of Art twenty times for under two hundred dollars?	no </s>
+Can Planned Parenthood tell your University that you have Herpes simplex virus?	no </s>
+Would Achilles dominate Legolas in a hypothetical fight?	no </s>
+Is Bucharest located south of Egypt?	no </s>
+Will a rock float in the atmosphere of Earth?	no </s>
+Have rhinoceroses been killed to improve human sex lives?	yes </s>
+Does ABBA have similar gender configuration to The Mamas & The Papas?	yes </s>
+Would the author of Little Women have remembered the ratification of the 13th Amendment?	yes </s>
+Are the majority of Reddit users familiar with the Pledge of Allegiance?	yes </s>
+Do children send their Christmas letters to the South Pole?	no </s>
+Did Maroon 5 go on tour with Nirvana?	no </s>
+Would an Evander Holyfield 2020 boxing return set age record?	no </s>
+Does Post Malone have a fear of needles?	no </s>
+Did US President during Spanish-American War suffer similar demise to Abraham Lincoln?	yes </s>
+Was Eve involved in an incestuous relationship?	yes </s>
+Lil Wayne similar real name rapper has over quadruple Wayne's Grammy awards?	yes </s>
+Would nickel boil in the outer core of the earth?	yes </s>
+Was Dorothea Wendling from same place Porsche originated?	yes </s>
+Can surgery prevent an existential crisis?	no </s>
+Was Al-Farabi a student of the Great Sheikh?	no </s>
+Is it dangerous to consume chlorine when mixed with sodium?	no </s>
+Did Brazilian jiu-jitsu Gracie founders have at least a baker's dozen of kids between them?	yes </s>
+Did Mozart ever buy anything from Dolce & Gabbana?	no </s>
+Would an Orthodox Presbyterian object to 1700s judge's attire?	yes </s>
+Is Lines on the Antiquity of Microbes briefer than any haiku?	yes </s>
+Do the directors of The Matrix advocate for transgender rights?	yes </s>
+Would a northern fur seal pass a driving test?	no </s>
+Will more people go in and out of Taco Bell than a Roy Rogers each year?	yes </s>
+Would it be unusual to find a yellow perch in the Red Sea?	yes </s>
+Would General Zod prefer an iPhone over a Samsung Galaxy S4?	no </s>
+Did Neanderthals use arithmetic?	no </s>
+Was animal in You're a Good Sport, Charlie Brown, hypothetically a hound?	yes </s>
+Are any of J.K. Rowling's books in the genre of And Then There Were None?	yes </s>
+Did Jay-Z ever collaborate with Louis Armstrong?	no </s>
+Are lengths measured in metres in the UK?	yes </s>
+Did Christopher Columbus sail representing a different country than his original home?	yes </s>
+Are blue lips normal?	no </s>
+Did Jon Brower Minnoch suffer from anorexia nervosa?	no </s>
+Would Othello be Shakespeare's play to buy Scheherazade most time with king?	no </s>
+Was Hillary Clinton's deputy chief of staff in 2009 baptised?	no </s>
+Is a Cassowary safer pet than a crane?	no </s>
+Could you drive from New England to a Sainsbury's?	no </s>
+Would P. G. Wodehouse be taught in second grade?	no </s>
+Is tobacco use made to seem enjoyable in Alice's Adventures in Wonderland?	yes </s>
+Can Simon Cowell vote for the next Supreme Court judge?	no </s>
+Could all the unemployed people due to 1933 Great Depression fit in Tiger Stadium?	no </s>
+Can an adult male stand on top Donatello's bronze David and touch the Sistine Chapel ceiling?	no </s>
+Was England directly involved in the Arab-Israeli conflict?	yes </s>
+Did Alice's Adventures in Wonderland inspire Macbeth?	no </s>
+Is the Asian black bear multicolored?	yes </s>
+Are pirate lieutenants like navy lieutenants?	yes </s>
+Should a finished website have lorem ipsum paragraphs?	no </s>
+Does the land in close proximity to beaver dams suffer?	yes </s>
+Would it be difficult for Will Ferrell to win Empire Award for Best Newcomer?	yes </s>
+Did Cynthia Powell celebrate a silver anniversary with John Lennon?	no </s>
+Did Al Pacino act in a movie during World War II?	no </s>
+Is the Gujarati script the same category of script as Kanji?	no </s>
+Was Morris County named after a chief justice?	yes </s>
+Can the Very Large Telescope observe the largest mountain on Earth?	no </s>
+Is cow methane safer for environment than cars?	no </s>
+Is Morocco an ideal location for water skiing?	no </s>
+Could one Amazon share ever buy twenty year Netflix subscription?	yes </s>
+Is there radiation where Nikola Tesla once worked?	yes </s>
+Could Al Capone have read works from the Harlem Renaissance?	yes </s>
+Would members of Blue Lives Matter support every element of Grand Theft Auto III?	no </s>
+Does New Year's Day always occur on a Wednesday?	no </s>
+Could a nymph tick pass through a standard hole punch?	yes </s>
+Can an art dealer buy Boeing 737-800 with a Da Vinci painting?	yes </s>
+Should Peter Griffin be an expert at the craft of brewing?	yes </s>
+Could you drive a Rowe 550 to the 2008 Summer Olympics?	yes </s>
+Was Amy Winehouse a fan of Star Wars: Rogue One?	no </s>
+Is Jesse W. Moore a potential recipient of a Snoopy-themed award from NASA?	no </s>
+Would a honey badger fit inside an oven?	yes </s>
+Is chaff produced by hydropower?	yes </s>
+Does Paulo Coelho's wife make a living through speech?	no </s>
+Can a lifeboat rescue people in the Hooke Sea?	no </s>
+Is Fiat Chrysler associated with Japanese cars?	no </s>
+Would Hades and Osiris hypothetically compete for real estate in the Underworld?	yes </s>
+Does Orange County, California require airplanes to be quiet?	yes </s>
+Was the Parc des Princes fully operational during June of 2020?	no </s>
+Is retail a job anybody can be suited for?	no </s>
+Would an explosion at a gunpowder storage facility result in a supersonic shock wave?	no </s>
+Can you buy chlorine at a dollar store?	yes </s>
+Are saltwater crocodiles related to alligators?	yes </s>
+Would Persephone be a good consultant to a landscape architect?	yes </s>
+Would the crew of Apollo 15 have difficulty riding a unicycle?	yes </s>
+Are ropes required to operate a frigate?	yes </s>
+Does Jason have anything in common with Dr. Disrespect?	yes </s>
+Should a Celiac sufferer avoid spaghetti?	yes </s>
+Do Koalas prefer Eucalyptus over meat?	yes </s>
+Would a body builder prefer an elk burger over a beef burger?	yes </s>
+Can you transport a coin along a sea of mercury?	yes </s>
+Would Bugs Bunny harm an olive tree in the real world?	yes </s>
+Are Brussels sprout particularly good for adrenal fatigue?	yes </s>
+Does Family Guy take place on the American West Coast?	no </s>
+Can someone in Uberlandia work for Mitsubishi?	yes </s>
+Would Hannah Nixon be proud of Richard Nixon following the Watergate scandal?	no </s>
+Could Eddie Murphy dial 911 in a car as a young child?	no </s>
+Would Mount Wycheproof be a breeze for Edmund Hillary?	yes </s>
+Are flag of Gabon colors found in rainbow?	yes </s>
+Do mollymawks live where albatrosses cannot?	no </s>
+Is a curling iron necessary in curling?	no </s>
+Are emus related to elks?	no </s>
+Would the chef at La Grenouille find salsa to be a strange request?	yes </s>
+Are System of a Down opposed to globalization?	yes </s>
+Can someone from New England profit by growing coffee?	no </s>
+Does table tennis use prime numbers?	yes </s>
+Is being 5 year Capital One Venture member more cost effective than being in Church of Satan?	no </s>
+Did Beethoven enjoy listening to EDM?	no </s>
+Is Metallica protective over their music?	yes </s>
+Has Kelly Clarkson outsold season 4 American Idol winner?	no </s>
+Do black-tailed jackrabbits fear the European wildcat?	no </s>
+Could Carl Friedrich Gauss speak to someone 100 miles away?	no </s>
+Is Lionel Richie related to Sheila E?	no </s>
+Does the FDA require sell by dates using Roman Numerals?	no </s>
+Did travelers sing sea shanties on the Oregon Trail?	no </s>
+Would someone with leukophobia enjoy looking at the Flag of the United States?	no </s>
+Did Teri Hatcher last twice as many episodes on Desperate Housewives as her Superman show?	yes </s>
+Do white blood cells outnumber red blood cells in the human body?	no </s>
+Was John George Bice's birthplace near Cornwall?	yes </s>
+Does the history of Europe include the age of dinosaurs?	no </s>
+Would Paul Bunyan hypothetically be a poor choice for an urban planner?	yes </s>
+Are all the elements plants need for photosynthesis present in atmosphere of Mars?	yes </s>
+Did Bill Nye vote for Franklin Delano Roosevelt?	no </s>
+Is the use of the word Gypsy by non-Romani people considered okay?	no </s>
+Was Land of Israel in possession of an Islamic empire in 16th century?	yes </s>
+Would 7 zucchini's satisfy potassium USDA daily recommendation?	yes </s>
+Was the British car, the Mini, the first car manufactured?	no </s>
+Can Paprika be made without a dehydrator?	yes </s>
+Can a Bengal cat survive eating only pancakes?	no </s>
+Could a wandering albatross fly from Bucharest to New York City without a rest?	yes </s>
+Does the New York Public Library sell Alpo products?	no </s>
+Is Tony Bennett's middle name shared by a former UFC champion?	yes </s>
+Would a black widow woman have use for peaches?	yes </s>
+Are people more likely than normal to get sunburn at Burning Man?	yes </s>
+Did Rahul Dravid ever kick a field goal?	no </s>
+Does an individual oceanographer study many sciences?	yes </s>
+Was Superhero fiction invented in the digital format?	no </s>
+Could two newborn American Black Bear cubs fit on a king size bed?	yes </s>
+Are Aldi's foods discounted due to being out of date?	no </s>
+Are ground bell peppers the main ingredient of black pepper?	no </s>
+Does taking ukemi halt kinetic energy?	no </s>
+Is it hard to get a BLT in Casablanca?	yes </s>
+Would the yearly precipitation on Snowdon submerge an upright bowling pin?	yes </s>
+Was a woman Prime Minister directly before or after Stanley Baldwin?	no </s>
+Would  bald eagle deliver an urgent message before B-52?	no </s>
+Can professional boxers expect to have low dental bills?	no </s>
+Did Dr. Seuss live a tragedy free life?	no </s>
+Were Jackson Pollock's parents not required to say The Pledge of Allegiance as children?	yes </s>
+Is San Diego County the home of a Shamu?	yes </s>
+Is the Flying Spaghetti Monster part of an ancient pantheon?	no </s>
+Does Elizabeth II reign over the Balearic Islands?	no </s>
+Did the Football War last at least a month?	no </s>
+Was Lorenzo de Medici's patronage of Da Vinci exclusive?	no </s>
+Is anyone at the Last Supper celebrated in Islam?	yes </s>
+Would a Bengal cat be afraid of catching a fish?	no </s>
+Did Benito Mussolini wear bigger shoes than Hafþór Björnsson?	no </s>
+Would Bobby Jindal's high school mascot eat kibble?	yes </s>
+Is the United States Capitol located near the White House?	yes </s>
+Would it be hard to get toilet paper if there were no loggers?	yes </s>
+Was Iggy Pop named after his father?	yes </s>
+Can preventive healthcare reduce STI transmission?	yes </s>
+Do inanimate objects come alive in Beauty and the Beast?	yes </s>
+Would Bandy be likely to become popular in Texas?	no </s>
+For bone growth, is kale more beneficial than spinach?	yes </s>
+Does walking across Amazonas put a person's life at risk?	yes </s>
+Did original Nintendo have games in same format as Playstation 3?	no </s>
+Is the Fibonacci number sequence longer than every number discovered in Pi?	yes </s>
+Would a Germaphobia be able to participate in Judo?	no </s>
+Is Autumn a good time to collect bear pelts in US?	no </s>
+Are there Pink music videos that are triggering for eating disorder patients?	yes </s>
+Did Al Unser Jr. win the Space Race?	no </s>
+Is World of Warcraft heavier than a loaf of bread?	no </s>
+Did Electronic Arts profit from Metroid sales?	no </s>
+Would a kindergarten teacher make a lesson of the New Testament?	no </s>
+Did Amy Winehouse always perform live perfectly?	no </s>
+Are there bones in an anchovy pizza?	yes </s>
+Can you hide a basketball in a sand cat's ear?	no </s>
+Did Ivan the Terrible's father and grandfather have nicer nicknames?	yes </s>
+Are amoebas safe from breast cancer?	yes </s>
+Was Pi an acceptable number of children in 1980s China?	no </s>
