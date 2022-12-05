@@ -64,9 +64,6 @@ class FactsGenerator:
         self.eos_id = 1
         self.random_mode = True
 
-        self.qa_model = T5ForConditionalGeneration.from_pretrained("/shared/xzhou45/tencent/models/t5/exp_squad_t5").to(self.device)
-        self.qa_model.eval()
-
         self.openai_correction_cache = json.load(open("open_ai_correction_cache.json"))
         self.all_openai_correction_cache_sentences = []
         for sentence in self.openai_correction_cache:
@@ -143,7 +140,6 @@ class FactsGenerator:
         all_trial_results = []
         for trail_num in range(0, self.num_trials):
             current_facts = []
-            seen_questions = set()
             seen_generations = set()
             for i in range(0, self.num_facts):
                 print("INFO: Run question '{}', trail_num {}, fact index {}".format(question, str(trail_num), str(i)), flush=True)
@@ -189,7 +185,9 @@ class FactsGenerator:
         return all_trial_results
 
 
-def main(input_file, output_file):
+# @input_file: raw questions, formatted as data/strategyqa/dev_qonly.txt
+# @output_file: an output json file with generated decompositions
+def generate_decomposition(input_file, output_file):
     generator = FactsGenerator()
     lines = [x.strip().split("\t") for x in open(input_file).readlines()]
     f_out = open(output_file, "w")
@@ -198,3 +196,18 @@ def main(input_file, output_file):
         facts = generator.gen_facts(question)
         f_out.write(json.dumps(facts) + "\n")
         f_out.flush()
+
+
+# @question_file: raw questions, formatted as data/strategyqa/dev_qonly.txt
+# @decomp_file: outputs from generate_decomposition(). It should contain the same amount of lines.
+# @output_file: an output path
+# @limit: how many decomposition sentences to consider
+def format_to_entailment_model(question_file, decomp_file, output_file, limit=3):
+    decomp_lines = [x.strip() for x in open(decomp_file).readlines()]
+    lines = [x.strip() for x in open(question_file).readlines()][:len(decomp_lines)]
+    f_out = open(output_file, "w")
+    for i, line in enumerate(lines):
+        decomp_obj = json.loads(decomp_lines[i])
+        for decomp in decomp_obj:
+            question = line.split("\t")[0] + " </s> Decomposition: " + " ; ".join(decomp[:limit])
+            f_out.write("{}\t{}\n".format(question, line.split("\t")[1]))

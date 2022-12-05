@@ -1,0 +1,972 @@
+is there any block with a height of either 3 or 6 inches	block whose height is 3 inches or 6 inches </s>
+find me a pyramid block that is 3 inches tall	block whose shape is a pyramid and whose height is 3 inches </s>
+block whose height is 3 inches and whose shape is a pyramid	block whose height is 3 inches and whose shape is a pyramid </s>
+block above a pyramid shaped block	block that is above block whose shape is a pyramid </s>
+get a 3inch block above block 1	block that is above block 1 and whose height is 3 inches </s>
+below special block	block that block that is special is above </s>
+block whose height is at most width of block 1	block whose height is at most width of block 1 </s>
+block whose height is length of block 1	block whose height is length of block 1 </s>
+block whose width is 3 inches and that is below block 1	block whose width is 3 inches and that is below block 1 </s>
+a special block	block that is special </s>
+locate the block with a height that equals more than the width of block 1	block whose height is larger than width of block 1 </s>
+find me the block that is left of the block that block 1 is right of	block that is left of block that block 1 is right of </s>
+pyramid block to left of block 1	block whose shape is a pyramid and that block 1 is right of </s>
+what block is not as long as block 1 is tall	block whose length is smaller than height of block 1 </s>
+identify a block with a width of 3 inches	block whose width is 3 inches and whose width is 3 inches </s>
+find a block between block 1 and a block below block 1	block that is above block that is below block 1 </s>
+what block is not above block 1	block that block 1 not is above </s>
+find me a block as long or longer then block 1 is wide	block whose length is at least width of block 1 </s>
+what block is below the block that block 1 is to the right of	block that is below block that block 1 is right of </s>
+select the block on the right	block that block 1 is above and that is right of block 1 </s>
+find me the block that is both above and to the right of block 1	block that block 1 is right of and that is above block 1 </s>
+find me all the 3 inch wide and tall blocks	block whose width is 3 inches and whose height is 3 inches </s>
+choose a block that is to the left of block 1 and 2	block that is left of block 1 or block 2 </s>
+special block left of block 1	block that is special and that block 1 is right of </s>
+find me all blocks at most as wide at block 1 is tall	block whose width is at most height of block 1 </s>
+find me all blocks left of 3 inch wide blocks	block that is left of block whose width is 3 inches </s>
+find me all blocks left and above block 1	block that block that is left of block 1 is above </s>
+find me all special blocks that block 1 is below	block that block 1 is below and that is special </s>
+block taller than the width of block 1	block whose height is larger than width of block 1 </s>
+3 inch long block below block	block that is below block whose length is 3 inches </s>
+is there a block to the right of more than two other blocks	block that more than two block is left of </s>
+find me a block that is above the most blocks	block that the most number of block is below </s>
+block that is not left of block 1	block that not is left of block 1 </s>
+3 inches wide block below block 1	block whose width is 3 inches and that block 1 is below </s>
+find me all blocks with 2 blocks to the left	block that two block is left of </s>
+choose a block that is right of block 1	block that is right of block 1 </s>
+find me all blocks with the same color as block 1	block whose color is color of block 1 </s>
+what brick has more than 2 bricks to its right	block that more than two block is right of </s>
+find me all the bricks taller than the width of block 1	block whose height is larger than width of block 1 </s>
+which block is to the right of block 1	block that block that is right of block 1 is left of </s>
+block whose height is at leas the length of block 1	block whose height is at least length of block 1 </s>
+find a block with a special block to the left of it	block that is right of block that is special </s>
+select the block that is equal or bigger than block 1	block whose width is at least height of block 1 </s>
+choose a block that is above block 2	block that more than two block is above </s>
+what block is above the block that block 1 is to the right of	block that is above block that block 1 is right of </s>
+find me all blocks not 3 inches wide	block whose width is not 3 inches </s>
+choose a block below block 2	block that is below less than two block </s>
+which block is bigger than block 1	block whose length is larger than length of block 1 </s>
+find me all blocks above 3 inch wide blocks	block that block whose width is 3 inches is above </s>
+which brick is no taller than brick 1 is long	block whose height is at most length of block 1 </s>
+block left of 3 inch block	block that block whose height is 3 inches is right of </s>
+locate the block with a height that is equal to or greater than the height of block 1	block whose height is at least height of block 1 </s>
+find me the most colorful block	block that has the most number of color </s>
+select block that is below block 1 and block that is above block 1	block that is below block 1 and that block 1 is below </s>
+what block is both above and below block one	block that is above block 1 and that is below block 1 </s>
+find me all blocks 2 left of block 1	block that is left of block that block 1 is left of </s>
+block that is below block 1 and whose length is 3 inches	block that is below block 1 and whose length is 3 inches </s>
+select the brick right and above block 1	block that is right of block that is above block 1 </s>
+find me all blocks right and below block 1	block that is right of block 1 and that is below block 1 </s>
+select the block that is to the right of block 1	block that is right of block 1 and that block 1 is left of </s>
+choose a pyramid or a cube	a pyramid or a cube </s>
+block that is below block 1 and that is below block 1	block that is below block 1 and that is below block 1 </s>
+block above 1 block and below 1 block	block that block 1 is above and that block 1 is below </s>
+block thats less than block 2	block that has less than two shape </s>
+find a block that is above at least two other blocks	block that is above at least two block </s>
+what block is to the right of the most blocks	block that the most number of block is left of </s>
+which pyramidshaped block is special	block that is special and whose shape is a pyramid </s>
+block that is below at least two blocksw	block that at least two block is below </s>
+find me all blocks that block 1 is below and right of	block that block 1 is below and that is right of block 1 </s>
+block surrounding block 1	block that is left of block 1 and that is right of block 1 </s>
+select the longest block	block that has the largest length </s>
+what special block is at the right of block 1	block that is right of block 1 and that is special </s>
+find me all 3 inch long blocks that block 1 is above	block whose length is 3 inches and that block 1 is above </s>
+find the block to the left of the pyramidshaped block	block that is left of block whose shape is a pyramid </s>
+select the brick with the least number of shapes	block that has the least number of shape </s>
+select the block at the right of block 1	block that block 1 is left of and that block 1 is left of </s>
+which block is as wide as block 1 is high	block whose width is height of block 1 </s>
+find me the block that is to the left and above block 1	block that is above block 1 and that block 1 is left of </s>
+find me a block with length equal to block 1s height	block whose length is height of block 1 </s>
+find me all the blocks above special blocks	block that is above block that is special </s>
+3 inch wide block to the left of block 1	block whose width is 3 inches and that block 1 is right of </s>
+find a block with less than two shapes	block that has less than two shape </s>
+select the block that block 1 is above and to the left of	block that block that block 1 is above is left of </s>
+find me a block to the left of at least two blocks	block that at least two block is right of </s>
+block lft of special block 1	block that is left of block 1 and that is special </s>
+what block is not to the right of block 1	block that not is right of block 1 </s>
+find me all the 3 inch long special blocks	block whose length is 3 inches and that is special </s>
+find the block that is below and to the left of block 1 	block that is below block 1 and that block 1 is left of </s>
+find a block with a maximum of two colors on it	block that has at most two color </s>
+what block is below block 1 and 3 inches long	block that is below block 1 and whose length is 3 inches </s>
+which brick has the least number of colors	block that has the least number of color </s>
+find the block that is below to the right of block 1 	block that block that is right of block 1 is below </s>
+what block is block 1 not to the right of	block that block 1 not is right of </s>
+locate a block that is located to the right of the maximum number of blocks	block that is right of the most number of block </s>
+select the block that has greater than two colors	block that has more than two color </s>
+what block is to the right of the pyramidshaped block	block that is right of block whose shape is a pyramid </s>
+find me all special blocks that are to the right of block 1	block that is special and that block 1 is right of </s>
+what blocks length is less than or equal to block 1s height	block whose length is at most height of block 1 </s>
+what block is to the left of the block that block 1 is to the right of	block that is left of block 1 and that block 1 is right of </s>
+find me all the blocks with more than 2 blocks below it	block that more than two block is below </s>
+find a block below either block 1 or block 2	block that is below block 1 or block 2 </s>
+select a block with width equal or greater than block 1 is long	block whose width is at least length of block 1 </s>
+block below block with pyramid shape	block that block whose shape is a pyramid is below </s>
+choose a block that is left of a 3 inch brick	block that is left of block whose height is 3 inches </s>
+block above and below block 1	block that block 1 is below and that is above block 1 </s>
+what block has two or more colors	block that has at least two color </s>
+3 inch block above block 1	block whose length is 3 inches and that block 1 is below </s>
+find all 3 inch pyramid blocks	block whose height is 3 inches and whose shape is a pyramid </s>
+which blocks are not above block 1	block that not is above block 1 </s>
+is there a block that is on top of more than two other blocks	block that more than two block is below </s>
+look right of block 1 and get the 3 inch tall block	block whose height is 3 inches and that block 1 is left of </s>
+which brick is above the brick that is below brick 1	block that is above block that is below block 1 </s>
+find me all blocks right of block 1 or 2	block that block 1 or block 2 is left of </s>
+what is the shape of block 1	shape of block 1 </s>
+find block that is below and to the right of block 1	block that is below block 1 and that is right of block 1 </s>
+block with more than 2 shapes	block that has more than two shape </s>
+select all blocks that dont have a width of 3 inches	block whose width is not 3 inches </s>
+which brick is to the left of brick 1 that is at least 3 inches long	block whose length is 3 inches and that is left of block 1 </s>
+block that is right of the least number of block	block that is right of the least number of block </s>
+find me all blocks 3 inches tall	block whose height is 3 inches and whose height is 3 inches </s>
+what brick has two bricks to its left	block that two block is left of </s>
+find a block as long or longer than block 1	block whose length is at most length of block 1 </s>
+find me all blocks 1 is right and above	block that block 1 is right of and that block 1 is above </s>
+choose the block to the right of block 2	block that two block is right of </s>
+block whose length is 3 inches and that is special	block whose length is 3 inches and that is special </s>
+block that has less than two shape	block that has less than two shape </s>
+select all blocks with the same width as block 1	block whose width is width of block 1 </s>
+pyramid shaped block left of block 1	block whose shape is a pyramid and that block 1 is left of </s>
+find me all pyramid blocks above block 1	block whose shape is a pyramid and that is above block 1 </s>
+choose a block that is above block 1 or 2	block that is above block 1 or block 2 </s>
+block that has the most number of color	block that has the most number of color </s>
+which brick is at least as long as brick 1 is tall	block whose length is at least height of block 1 </s>
+block left of 3 inch block	block that block whose width is 3 inches is right of </s>
+choose a block that is special	block that is special and that is special </s>
+what block is 2 blocks below block 1	block that is below block that is below block 1 </s>
+block left of block one and shaped like a pyramid	block that is left of block 1 and whose shape is a pyramid </s>
+find the block on the left side of the special block	block that block that is special is left of </s>
+block that more than two block is above	block that more than two block is above </s>
+find a block shaped like a pyramid or a cube	a pyramid or a cube </s>
+find a block located to the right of two other blocks	block that two block is left of </s>
+what pyramid shaped block is at right of block 1	block that block 1 is left of and whose shape is a pyramid </s>
+block below block 1 and 3 inches in height	block that block 1 is above and whose height is 3 inches </s>
+find me all blocks that block 1 is right and left of	block that block 1 is right of and that block 1 is left of </s>
+pyramid above block 1	block whose shape is a pyramid and that is above block 1 </s>
+choose a block that is under the most populous amount of blocks	block that is below the most number of block </s>
+choose a block that is the same or below brick 1	block whose length is at most height of block 1 </s>
+a special 3 inch high block	block whose height is 3 inches and that is special </s>
+select the block that is above and right of block 1	block that is above block that is right of block 1 </s>
+pyramid left of block 1	block whose shape is a pyramid and that is left of block 1 </s>
+3 inches long pyramid shaped block	block whose length is 3 inches and whose shape is a pyramid </s>
+beneath block 1 is a block with a height of 3 inches find it	block whose height is 3 inches and that is below block 1 </s>
+what block  has a height of 3 inches and that block 1 is above	block whose height is 3 inches and that block 1 is above </s>
+which brick is to the right of the brick that is 3 inches high	block that is right of block whose height is 3 inches </s>
+block whose shape is a pyramid and that is below block 1	block whose shape is a pyramid and that is below block 1 </s>
+find a block with width less than or equal to block 1	block whose width is at most width of block 1 </s>
+find me all blocks left of which block 1 is below	block that block that is left of block 1 is below </s>
+find me all blocks right of block 1 which block 1 is left of	block that is right of block 1 and that block 1 is left of </s>
+which brick is no longer than brick 1 is high	block whose length is at most height of block 1 </s>
+choose a block under block 2	block that two block is below </s>
+find me all the blocks taller than the length of block 1	block whose height is larger than length of block 1 </s>
+find the block buried under the smallest number of other blocks	block that the least number of block is above </s>
+select a block that is not below block 1	block that block 1 not is below </s>
+what block is to the left of the pyramidshaped block	block that is left of block whose shape is a pyramid </s>
+block less wider than the length of block 1	block whose width is smaller than length of block 1 </s>
+3 inch block above block 1	block whose length is 3 inches and that is above block 1 </s>
+which brick has a width smaller than the width of brick 1	block whose width is smaller than width of block 1 </s>
+find the block with maximum length of 6 inches	block whose length is at most 3 inches or 6 inches </s>
+choose the brick to the right of the brick above brick 1	block that is right of block that is above block 1 </s>
+block either 3 inches or 6 inches long	block whose length is 3 inches or 6 inches </s>
+what block is 3 inches wide by 3 inches tall	block whose height is 3 inches and whose width is 3 inches </s>
+get me the blocks to the left of the block above block 1	block that is left of block that block 1 is below </s>
+block below blocks 1 and 2	block that block 1 or block 2 is above </s>
+pyramid to left of block 1	block that is left of block 1 and whose shape is a pyramid </s>
+what block is 3 inches long and has block 1 on its left	block that is right of block 1 and whose length is 3 inches </s>
+select the pyramidshaped brick below brick 1	block whose shape is a pyramid and that is below block 1 </s>
+what block is 3 inches wide	block whose width is 3 inches </s>
+find a block with a height smaller than the height of block 1	block whose height is smaller than height of block 1 </s>
+select the block that is left of block 1	block that block that block 1 is left of is left of </s>
+3 inch tall block under first block	block that is below block 1 and whose height is 3 inches </s>
+find the block that is below and to the right of block 1	block that is below block 1 and that is right of block 1 </s>
+find a block with the same length as block 1	block whose length is length of block 1 </s>
+block whose width is at least the width of block 1	block whose width is at least width of block 1 </s>
+blocks that have block 1 or block 2 at left	block that block 1 or block 2 is left of </s>
+find me all blocks that has less than 2 blocks to the left	block that is right of less than two block </s>
+block that at least two block is below	block that at least two block is below </s>
+left of block 1	block that block 1 is right of </s>
+find a block that is below block 1	block that is below block that block 1 is above </s>
+select a pyramid or cube shaped block	a pyramid or a cube </s>
+find me all special blocks with length less than 3 inches	block that is special and whose length is 3 inches </s>
+which block has at least two blocks above it	block that at least two block is above </s>
+block that is below block 1 and that is special	block that is below block 1 and that is special </s>
+find me the block whose shape is a pyramid	block that block whose shape is a pyramid is above </s>
+choose a smallest block than block 1	block whose width is smaller than width of block 1 </s>
+select the tallest block	block that has the largest height </s>
+find me a block with at most two blocks below it	block that is above at most two block </s>
+find me the special block to the right of block 1	block that is special and that is right of block 1 </s>
+which brick is no wider than brick 1 is tall	block whose width is at most height of block 1 </s>
+which special brick is to the left of brick 1	block that is left of block 1 and that is special </s>
+find the block on the right side of the block on the right side of block 1	block that block that block 1 is right of is right of </s>
+select the block that has a height of 3 inches and is above block 1	block whose height is 3 inches and that block 1 is below </s>
+which brick is at least as long as brick 1	block whose length is at least length of block 1 </s>
+block that is left of block which is below block 1	block that is left of block that is below block 1 </s>
+left of 3 inch block	block that block whose height is 3 inches is right of </s>
+which block is furthest to the right	block that is right of the most number of block </s>
+what 3inch wide brick is pyramidshaped	block whose shape is a pyramid and whose width is 3 inches </s>
+choose a block that is no higher than 2 blocks	block that is above at most two block </s>
+find a special block above block 1 	block that is special and that block 1 is below </s>
+what is the color of block 1	color of block 1 </s>
+what is the length of brick 1	length of block 1 </s>
+find me all the 3 inch tall pyramid blocks	block whose height is 3 inches and whose shape is a pyramid </s>
+what pyramidshaped blocks are below block 1	block that is below block 1 and whose shape is a pyramid </s>
+find me all 3 inch long blocks above block 1	block that is above block 1 and whose length is 3 inches </s>
+find me all blocks above 2 blocks	block that is above two block </s>
+find the block with a height and length of 3 inches	block whose height is 3 inches and whose length is 3 inches </s>
+what is the average width of a block	average width of block </s>
+find a special pyramidshaped block	block that is special and whose shape is a pyramid </s>
+block right of 3 inches long block 1	block that is right of block 1 and whose length is 3 inches </s>
+what block has the least blocks to the left of it	block that is right of the least number of block </s>
+is there a block under one or two blocks at most	block that is below at most two block </s>
+above block to right of block 1	block that is above block that block 1 is left of </s>
+block whose width is 3 inches and whose length is 3 inches	block whose width is 3 inches and whose length is 3 inches </s>
+right of and above block 1	block that block 1 is below and that block 1 is left of </s>
+select the block that is 3 inches long and to the right of block 1	block whose length is 3 inches and that is right of block 1 </s>
+block that is below block whose shape is a pyramid	block that is below block whose shape is a pyramid </s>
+find me all 3 inch high and 3 inch wide blocks	block whose height is 3 inches and whose width is 3 inches </s>
+find me a block thicker than the length of block 1	block whose width is larger than length of block 1 </s>
+is there a block to the right of just one block only	block that less than two block is left of </s>
+block that not is left of block 1	block that not is left of block 1 </s>
+find the block to the left of the block that is 3 inches in diameter	block that is left of block whose width is 3 inches </s>
+find the block that is 3 inches wide	block whose width is 3 inches and whose width is 3 inches </s>
+what blocks length is greater than 3 to 6 inches	block whose length is larger than 3 inches or 6 inches </s>
+select the block on the left corner	block that is left of two block </s>
+find me a block that is below any block that is 3 inches	block that block whose height is 3 inches is below </s>
+find the block that is left of block 1	block that is left of block 1 and that block 1 is right of </s>
+block below either block 1 or block 2	block that is below block 1 or block 2 </s>
+choose a block that is under the least number of bricks	block that is below the least number of block </s>
+right of block one with pyramid shape	block that block 1 is left of and whose shape is a pyramid </s>
+block block a 3 inch long block	block that block whose length is 3 inches is below </s>
+which brick is below the brick below brick 1	block that is below block that is below block 1 </s>
+what block is 3 inches wide and 3 inches tall	block whose width is 3 inches and whose height is 3 inches </s>
+find me all blocks with width less than 3 inches	block whose width is smaller than 3 inches </s>
+which brick is to the right of less than two bricks	block that is right of less than two block </s>
+which block of 3 inches height is above the block 1 	block whose height is 3 inches and that block 1 is below </s>
+find me all 3 inch wide blocks left of block 1	block that is left of block 1 and whose width is 3 inches </s>
+select the block that is above block 1	block that block 1 is above and that block 1 is above </s>
+find me the block that is to the left of block 1 and special	block that block 1 is right of and that is special </s>
+find me all the special blocks	block that is special </s>
+select block 1 and all of the blocks below it	block that block 1 is above and that is below block 1 </s>
+what is the width of block 1	width of block 1 </s>
+block that is special and whose shape is a pyramid	block that is special and whose shape is a pyramid </s>
+which block is above the special block	block that is above block that is special </s>
+find me all the blocks that have 2 blocks to the right of it	block that at least two block is left of </s>
+which brick has a length shorter than the height of brick 1	block whose length is smaller than height of block 1 </s>
+find me the block that has a height of 3 inches	block that block whose height is 3 inches is below </s>
+block left of block 1 thats 3 inches high	block that is left of block 1 and whose height is 3 inches </s>
+which brick is 3 inches wide and below brick 1	block whose width is 3 inches and that is below block 1 </s>
+find me all blocks left of block 1	block that block that is left of block 1 is right of </s>
+which block has at least two blocks below it	block that at least two block is below </s>
+3 inch block above block 1	block that block 1 is below and whose length is 3 inches </s>
+find me all blocks which block 1 is not above	block that block 1 not is above </s>
+find blocks that are at least 3 inches high or 6 inches high	block whose height is at least 3 inches or 6 inches </s>
+block not longer than block 1	block whose length is at most length of block 1 </s>
+find the 3 inches in length block that is on the left side  of block 1	block whose length is 3 inches and that block 1 is right of </s>
+color of block 1	color of block 1 </s>
+which brick is the same width as brick 1	block whose width is width of block 1 </s>
+what blocks have a width larger than the height of block 1	block whose width is larger than height of block 1 </s>
+find me all the blocks that is as long as block 1 is tall	block whose length is height of block 1 </s>
+find the block below the block that is 3 inches in width	block that block whose width is 3 inches is above </s>
+which brick is not shaped like a pyramid	block whose shape is not a pyramid </s>
+block below block which is below block 1	block that is below block that is below block 1 </s>
+find me all blocks that block 1 is belo	block that block that block 1 is below is below </s>
+find the block above 2 blocks	block that at most two block is below </s>
+what block is below two or more blocks	block that is below at least two block </s>
+find 3 inch block left of block 1	block that block 1 is right of and whose width is 3 inches </s>
+choose a block that is the same length as block 1	block whose length is at least length of block 1 </s>
+what block is special and left of block 1	block that is special and that block 1 is left of </s>
+which brick is longer than 3 or 6 inches	block whose length is larger than 3 inches or 6 inches </s>
+block that is special and whose height is 3 inches	block that is special and whose height is 3 inches </s>
+which brick is at least as wide as brick 1	block whose width is at least width of block 1 </s>
+find me all blocks 2 blocks to the right of block 1	block that is right of block that is right of block 1 </s>
+average length of block	average length of block </s>
+find me the block that has a height of 3 inches and is above block 1	block whose height is 3 inches and that is above block 1 </s>
+what block is special and is to the left of block 1	block that is special and that block 1 is left of </s>
+3 inch block above block 1	block that is above block 1 and whose width is 3 inches </s>
+find the block that block 1 is below and that has a shape of a pyramid	block that block 1 is below and whose shape is a pyramid </s>
+what block is above and to the right of block 1 	block that block that block 1 is above is right of </s>
+select the block that is block 1 is left of and that is special	block that block 1 is left of and that is special </s>
+select the brick with the most blocks above it	block that the most number of block is above </s>
+block with two or more shapes	block that has at least two shape </s>
+select the block that is right of the block that block 1 is to the left of	block that block that is right of block 1 is left of </s>
+find a block that is not below block 1	block that not is below block 1 </s>
+3 inch block below block 1	block whose width is 3 inches and that block 1 is above </s>
+what blocks are above more than two blocks	block that is above more than two block </s>
+find me all pyramid blocks left of block 1	block that is left of block 1 and whose shape is a pyramid </s>
+choose a block that is 3 inches tall	block that is left of block whose length is 3 inches </s>
+find the block with the greatest number of colors on it	block that has the most number of color </s>
+which brick is the widest	block that has the largest width </s>
+find the 3 inch tall special block	block that is special and whose height is 3 inches </s>
+what block has block 1 above and below	block that is below block 1 and that block 1 is below </s>
+block that is left of at most two block	block that is left of at most two block </s>
+find me all 3 inch long blocks that block 1 is below	block that block 1 is below and whose length is 3 inches </s>
+choose a block that is special and shaped like a pyramid	block whose shape is a pyramid and that is special </s>
+find the widest block	block that has the largest width </s>
+what is the average length of a block	average length of block </s>
+which brick has two bricks to its right	block that two block is right of </s>
+what block has the least number of colors	block that has the least number of color </s>
+block whose length is 3 inches and whose width is 3 inches	block whose length is 3 inches and whose width is 3 inches </s>
+below and to the right of block 1	block that is below block 1 and that block 1 is left of </s>
+select all which is less than the width of block 1	block whose length is smaller than width of block 1 </s>
+find me all 3 inch long blocks right of block 1	block that is right of block 1 and whose length is 3 inches </s>
+what block has below it a block in the shape of a pyramid	block that block whose shape is a pyramid is below </s>
+find a pyramidshaped block	block whose shape is a pyramid and whose shape is a pyramid </s>
+find me all blocks as wide as block 1 is tall	block whose width is height of block 1 </s>
+what block has two color	block that has two color </s>
+find me all special blocks below block 1	block that is special and that is below block 1 </s>
+find a block that is not 3 inches wide	block whose width is not 3 inches </s>
+select the block that is 3 inches and is left of block 1	block that block 1 is left of and whose height is 3 inches </s>
+find me all blocks at block 1	block that block that is right of block 1 is left of </s>
+find a 3inch long block located to the left of block 1	block that is left of block 1 and whose length is 3 inches </s>
+which pyramidshaped brick is below brick 1	block that is below block 1 and whose shape is a pyramid </s>
+find the block whose width is 3 inches and is on the right side of block 1	block whose width is 3 inches and that block 1 is left of </s>
+find me the block that is to the right of block 1	block that block 1 is right of and that block 1 is left of </s>
+choose the block to the right of the other block	block that at least two block is right of </s>
+block whose height is not more than block 1	block whose height is at most length of block 1 </s>
+find me a block with block 1 above it	block that is below block 1 </s>
+find a block with block 1 below it	block that is above block 1 </s>
+which block is wider than 3 or 6 inches	block whose width is larger than 3 inches or 6 inches </s>
+choose the block to the right of the unique block	block that is right of block that is special </s>
+find me a block at least 3 inches long	block whose length is at least 3 inches </s>
+which 3 inch brick is below brick 1	block that is below block 1 and whose height is 3 inches </s>
+find a block that is to the left and below block 1	block that block 1 is left of and that is below block 1 </s>
+which is the least colorful block	block that has the least number of color </s>
+which brick is longer than brick 1 is tall	block whose length is larger than height of block 1 </s>
+find me all blocks at the same level as block 1	block that is below block that is above block 1 </s>
+find the block that is to the right of and below block 1	block that is right of block 1 and that is below block 1 </s>
+2 blocks below block 1	block that is below block that block 1 is above </s>
+select the brick with the least number of blocks to the right	block that the least number of block is right of </s>
+find me all blocks left of what block 1 is right of	block that is left of block that block 1 is right of </s>
+find me a block that is to the right of the block that is below block 1	block that is right of block that is below block 1 </s>
+what block is above two other blocks	block that is above two block </s>
+block whose height is less than width of block 1	block whose height is smaller than width of block 1 </s>
+what brick is 3 inches long and 3 inches wide	block whose length is 3 inches and whose width is 3 inches </s>
+find me all special blocks right of something	block that block that is special is right of </s>
+block whose height is 3 inches	block whose height is 3 inches </s>
+pyramid to right of block 1	block whose shape is a pyramid and that is right of block 1 </s>
+what brick is above brick 1	block that is above block 1 and that is above block 1 </s>
+which block has the largest length	block that has the largest length </s>
+select the block to the right of the block that is 3 inches long	block that is right of block whose width is 3 inches </s>
+find me all blocks that block 1 is left and above of	block that block 1 is left of and that block 1 is above </s>
+what is the total length of the brick	total length of block </s>
+select the block that block 1 is above	block that block 1 is above </s>
+block whose shape is shape of block 1	block whose shape is shape of block 1 </s>
+block whose length is smaller than 3 inches or 6 inches	block whose length is smaller than 3 inches or 6 inches </s>
+find the block that is to the left of block 1 whose shape is that of a pyramid	block that is left of block 1 and whose shape is a pyramid </s>
+pyramid block above block 1	block whose shape is a pyramid and that is above block 1 </s>
+a special block below block 1	block that is below block 1 and that is special </s>
+what block is above at two or more blocks	block that is above at least two block </s>
+block whose width is 3 inches	block whose width is 3 inches </s>
+find me all the blocks at least as tall as block 1	block whose height is at least height of block 1 </s>
+what block has less than two blocks below it	block that is above less than two block </s>
+what block that is not block 1 is below	block that block 1 not is below </s>
+what block is at least as tall as block 1	block whose height is at most height of block 1 </s>
+select the blocks that are left of and below block 1	block that is left of block 1 and that is below block 1 </s>
+select the special block right to block 1	block that is right of block 1 and that is special </s>
+select the 3 inch long block that is left of block 1	block that block 1 is right of and whose length is 3 inches </s>
+block above and left from block 1	block that block 1 is below and that block 1 is right of </s>
+3 inch block right of block 1	block that block 1 is left of and whose length is 3 inches </s>
+locate a block that is longer tha block 1 is tall	block whose length is larger than height of block 1 </s>
+find me all the blocks above 3 inch tall blocks	block that is above block whose height is 3 inches </s>
+special block right of block 1	block that is right of block 1 and that is special </s>
+find me all blocks right and below block 1	block that block 1 is right of and that block 1 is below </s>
+what block is below the fewest blocks	block that the least number of block is above </s>
+what block has block 1 below and left	block that block 1 is right of and that is above block 1 </s>
+what block is below the block that block 1 is above	block that block that is below block 1 is above </s>
+find me all the 3 inches long blocks and below block 1	block whose length is 3 inches and that is below block 1 </s>
+3 inch tall block left of block 1	block whose height is 3 inches and that is left of block 1 </s>
+what block is below the 3 inch wide block	block that is below block whose width is 3 inches </s>
+block above 3 inch wide block	block that block whose width is 3 inches is below </s>
+select the block whose length is 3 inches and that is to the left of block 1	block whose length is 3 inches and that block 1 is left of </s>
+what block has block 1 below and to the left	block that block 1 is below and that block 1 is left of </s>
+find me the block that is below and to the right of block 1	block that block that is below block 1 is right of </s>
+left of block 1	block that block 1 not is right of </s>
+find a block that has the length of block 1	block whose width is length of block 1 </s>
+find the 3 inch wide block below block 1	block that is below block 1 and whose width is 3 inches </s>
+what block is at least as long as block 1	block whose length is at least length of block 1 </s>
+find me all blocks that block 1 is right and above of	block that block that block 1 is above is right of </s>
+is there a block that is as long as block 1 is high	block whose length is height of block 1 </s>
+find me all the blocks shorter than 3 inches	block whose height is smaller than 3 inches </s>
+select the block that to the left of the most blocks	block that is left of the most number of block </s>
+block above and right from block 1	block that block that block 1 is left of is above </s>
+find the block on top of at least two other blocks	block that at least two block is below </s>
+choose a block that is above the most bricks	block that the most number of block is above </s>
+find the blocks that are not to the right of block 1	block that not is right of block 1 </s>
+what pyramid shaped block above block 1	block that block 1 is below and whose shape is a pyramid </s>
+look left for block 1 and get the pyramid block	block whose shape is a pyramid and that block 1 is right of </s>
+find me the block that is above block 1 and is in the shape of a pyramid	block that is above block 1 and whose shape is a pyramid </s>
+find me all blocks with more than 2 blocks to its left	block that is right of at least two block </s>
+block as wide as height of block 1	block whose width is height of block 1 </s>
+choose a brick 3 inches long that is shaped like a pyramid	block whose shape is a pyramid and whose length is 3 inches </s>
+which meetings end later than 10 in the morning or 3 in the afternoon	meeting whose end time is larger than 10am or 3pm </s>
+important meeting with three hour duration	meeting that is important and whose length is three hours </s>
+meeting that has duration of lesser than three hour	meeting whose length is smaller than three hours </s>
+meetings that start earlier than or at the same time as the weekly standup meeting	meeting whose start time is at most end time of weekly standup </s>
+show me the meetings that are scheduled for longest length of time	meeting that has the largest length </s>
+what meeting is alice not attending	meeting whose attendee is not alice </s>
+which january 2nd meeting is three hours long	meeting whose date is jan 2 and whose length is three hours </s>
+who has attended the most meetings	person that is attendee of the most number of meeting </s>
+meeting is no later than january 2nd or 3rd	meeting whose date is at least jan 2 or jan 3 </s>
+show me all three hour meetings that begin at 10am	meeting whose length is three hours and whose start time is 10am </s>
+meetings in greenberg cafe that start at 10am	meeting whose start time is 10am and whose location is greenberg cafe </s>
+show me meetings on jan 2	meeting whose date is jan 2 and whose date is jan 2 </s>
+show me all meetings scheduled to be longer than the weekly standup meeting	meeting whose length is larger than length of weekly standup </s>
+meetings after january 2 or after january 3	meeting whose date is larger than jan 2 or jan 3 </s>
+meeting which is on jan 3 or before	meeting whose date is at most jan 2 or jan 3 </s>
+show me meetings shorter than three hours	meeting whose length is at most three hours or one hour </s>
+what meeting ends at 10am or earlier	meeting whose end time is at most 10am </s>
+show me all meetings marked important beginning at 10 am	meeting that is important and whose start time is 10am </s>
+what is the longest meeting	meeting that has the largest length </s>
+meetings that end at or before 10am or at or before 3pm	meeting whose end time is at most 10am or 3pm </s>
+meetings that start at the same time or after the weekly standup meeting ends	meeting whose start time is at least end time of weekly standup </s>
+what is the location of the weekly standup	location that is location of weekly standup </s>
+people that attend the weekly standup meeting or the annual review meeting	person that is attendee of weekly standup or annual review </s>
+what meeting has the longest length	meeting that has the largest length </s>
+what meetings are located at greenberg cafe	meeting whose location is greenberg cafe and whose location is greenberg cafe </s>
+meeting that starts when the weekly standup meeting ends	meeting whose start time is end time of weekly standup </s>
+meetings in greenberg cafe that end at 10am	meeting whose location is greenberg cafe and whose end time is 10am </s>
+show me all meetings happening on january 2nd	meeting whose date is jan 2 and whose date is jan 2 </s>
+what meeting doesnt end at 10am	meeting whose end time is not 10am </s>
+show me all meeting that will end by 10am	meeting whose end time is at most 10am </s>
+meetings that start before 10am	meeting whose start time is smaller than 10am </s>
+meeting starts before end time of weekly standup	meeting whose start time is smaller than end time of weekly standup </s>
+three hour meeting on january 2nd	meeting whose length is three hours and whose date is jan 2 </s>
+which people are attending meetings on january 2	person that is attendee of meeting whose date is jan 2 </s>
+meetings that start at or after 10am	meeting whose start time is at least 10am </s>
+location of more than two meetings	location that is location of more than two meeting </s>
+show me all meetings in greenberg cafe on jan 2	meeting whose date is jan 2 and whose location is greenberg cafe </s>
+show me any meetings labeled as important which are also three hours long	meeting that is important and whose length is three hours </s>
+show me all locations which have meetings ending at 10 am	location that is location of meeting whose end time is 10am </s>
+show me the meeting that has the latest end time	meeting that has the largest end time </s>
+who is attending the 10sm meeting	person that is attendee of meeting whose start time is 10am </s>
+show me meetings ending after 10am	meeting whose end time is larger than 10am </s>
+show me all meetings attended by alice beginning at 10 am	meeting whose attendee is alice and whose start time is 10am </s>
+what meeting has and end time the same as weekly startup	meeting whose end time is end time of weekly standup </s>
+show me meetings that take three hours in greenberg cafe	meeting whose length is three hours and whose location is greenberg cafe </s>
+which meeting has the fewest attendees	meeting that has the least number of attendee </s>
+meeting ends before 10am or 3pm	meeting whose end time is smaller than 10am or 3pm </s>
+meeting which starts at 1000 am or 300 pm	meeting whose start time is 10am or 3pm </s>
+meetings attended by alice in greenberg cafe	meeting whose location is greenberg cafe and whose attendee is alice </s>
+show me meetings shorter than 3 hours	meeting whose length is at most three hours </s>
+what location is the three hour meeting	location that is location of meeting whose length is three hours </s>
+which january 2nd meetings is alice attenting	meeting whose date is jan 2 and whose attendee is alice </s>
+show me all meetings that begin at 10am	meeting whose start time is 10am </s>
+find the meeting with alice at greenberg cafe	meeting whose attendee is alice and whose location is greenberg cafe </s>
+what meeting has a date of jan 2 or jan 3	meeting whose date is at least jan 2 or jan 3 </s>
+meeting ends at 10 am or 3 pm	meeting whose end time is 10am or 3pm </s>
+show me all meetings marked important which are also attended by alice	meeting that is important and whose attendee is alice </s>
+show me important meetings at greenberg cafe	meeting whose location is greenberg cafe and that is important </s>
+what is the end time of weekly standup	end time of weekly standup </s>
+meeting with no more than 2 locations	meeting that has at most two location </s>
+meeting which starts at or before 10 am	meeting whose start time is at most 10am </s>
+show me all meetings at greenberg cafe ending at 10 am	meeting whose location is greenberg cafe and whose end time is 10am </s>
+what meeting is at greenberg cafe	location that is location of meeting whose location is greenberg cafe </s>
+location is same as the location of meeting on jan 2	location that is location of meeting whose date is jan 2 </s>
+what meetings are scheduled to run for three hours on jan 2	meeting whose date is jan 2 and whose length is three hours </s>
+show me all important meetings on jan 2	meeting whose date is jan 2 and that is important </s>
+show me all meetings alice has attended at the greenberg cafe	meeting whose attendee is alice and whose location is greenberg cafe </s>
+show me all meetings after january 2nd	meeting whose date is larger than jan 2 </s>
+person attending least number of meetings	person that is attendee of the least number of meeting </s>
+what meeting has the earliest date	meeting that has the smallest date </s>
+what meeting ends no earlier than 10am	meeting whose end time is smaller than 10am </s>
+what meetings occur on the same day as weekly standup	meeting whose date is date of weekly standup </s>
+what meetings take place in greenbug cafe	meeting whose location is greenberg cafe and whose location is greenberg cafe </s>
+what meeting has a length smaller than three hours	meeting whose length is smaller than three hours </s>
+show me the meetings with the most attendees	meeting that has the most number of attendee </s>
+what meeting is starting the same time as weekly standup	meeting whose start time is start time of weekly standup </s>
+show me meetings starting at 10am that take 3 horus	meeting whose start time is 10am and whose length is three hours </s>
+location same as weekly meeting or annual review	location that is location of weekly standup or annual review </s>
+meeting in which alice is attending and ends at 10 am	meeting whose end time is 10am and whose attendee is alice </s>
+what meeting start time is later than 10am	meeting whose start time is larger than 10am </s>
+meetings that are not attended by alice	meeting whose attendee is not alice </s>
+what meeting has the fewest locations	meeting that has the least number of location </s>
+show me all meetings ending after the weekly standup ends	meeting whose start time is larger than end time of weekly standup </s>
+what meeting is at greenberg cafe and ends at 10am	meeting whose location is greenberg cafe and whose end time is 10am </s>
+meeting is not at greenberg cafe	meeting whose location is not greenberg cafe </s>
+what meetings have a length of three hours and alice is attending	meeting whose length is three hours and whose attendee is alice </s>
+what meetings are scheduled for a date no earlier than jan 2	meeting whose date is at least jan 2 </s>
+locations of meetings that end at 10am	location that is location of meeting whose end time is 10am </s>
+what meetings end no later then the weekly standup meeting ends	meeting whose end time is at least end time of weekly standup </s>
+what meeting is in either greenberg cage or central office	meeting whose location is greenberg cafe or central office </s>
+show me all meetings happening at greenberg cafe or central office	greenberg cafe or central office </s>
+what is the average length of all meetings	average length of meeting </s>
+who is attending the three hour meeting	person that is attendee of meeting whose length is three hours </s>
+what are some important meetings	meeting that is important </s>
+show me all meetings which start at the same time or later than the weekly standup	meeting whose start time is at least start time of weekly standup </s>
+meeting on jan 2 which ends at 10 am	meeting whose date is jan 2 and whose end time is 10am </s>
+what meeting starts earlier than 10am or 3pm	meeting whose start time is smaller than 10am or 3pm </s>
+show me all meetings that end at 10am in greenberg cafe	meeting whose location is greenberg cafe and whose end time is 10am </s>
+tell me the all meetings begins after 10am or 3pm	meeting whose start time is at least 10am or 3pm </s>
+people that attend important meetings	person that is attendee of meeting that is important </s>
+how many locations house meetings	number of location </s>
+show me all meetings happening before january 2nd	meeting whose date is smaller than jan 2 </s>
+what is the date of weekly standup	date of weekly standup </s>
+create a meeting for jan 2nd until 10am	meeting whose date is jan 2 and whose end time is 10am </s>
+what meeting is on jan 2	meeting whose date is jan 2 and whose date is jan 2 </s>
+show me important meetings at greenberg cafe	meeting that is important and whose location is greenberg cafe </s>
+meeting starting at time of weekly standup	meeting whose start time is start time of weekly standup </s>
+meetings held in the same location as the weekly standup meeting	meeting whose location is location of weekly standup </s>
+show me all meetings which are either shorter or longer than three hours	meeting whose length is not three hours </s>
+what meeting lasts from one to three hours	meeting whose length is three hours or one hour </s>
+what meeting has alice attending on jan 2	meeting whose attendee is alice and whose date is jan 2 </s>
+show me all meetings alice has attended marked as important	meeting whose attendee is alice and that is important </s>
+meetings that are longer than the weekly startup meeting	meeting whose length is larger than length of weekly standup </s>
+show me the important meetings that last three hours	meeting that is important and whose length is three hours </s>
+what meeting begins latest	meeting that has the largest start time </s>
+show me all meetings marked important ending at 10 am	meeting that is important and whose end time is 10am </s>
+what meeting ends at the same time as weekly standup or later	meeting whose end time is at least end time of weekly standup </s>
+show me all meetings that alice is attending on jan 2	meeting whose attendee is alice and whose date is jan 2 </s>
+what meeting ends at the start time of weekly standup	meeting whose end time is start time of weekly standup </s>
+meetings held in less than two locations	meeting that has less than two location </s>
+what important meeting has an end time of 10am	meeting whose end time is 10am and that is important </s>
+meetings that are on or before january 3	meeting whose date is at least jan 2 or jan 3 </s>
+what meeting has the same end time as that of weekly standup	meeting whose end time is at most end time of weekly standup </s>
+show me meetings before 10am	meeting whose end time is smaller than 10am </s>
+what meeting has the most attendees	meeting that has the most number of attendee </s>
+show me all meetings that run either three hours or one hour	meeting whose length is three hours or one hour </s>
+show me the meeting that starts and ends at 10 am	meeting whose start time is 10am and whose end time is 10am </s>
+show me all meetings that end earlier than the week standup meeting ends	meeting whose end time is smaller than end time of weekly standup </s>
+which meeting has the most people scheduled to attend	meeting that has the most number of attendee </s>
+what person is attending a meeting that ends at 10am	person that is attendee of meeting whose end time is 10am </s>
+meetings on january 2 or january 3	meeting whose date is jan 2 or jan 3 </s>
+show me meetings that take 3 hours and start at 10am	meeting whose length is three hours and whose start time is 10am </s>
+alice or bob is an attendee at the meeting	meeting whose attendee is alice or bob </s>
+show me all meetings which are scheduled no later than january 3	meeting whose date is at most jan 2 or jan 3 </s>
+who attends the weekly standup meeting	attendee of weekly standup </s>
+show me all meetings starting at 10 am or after	meeting whose start time is at least 10am </s>
+meetings that end later than 10am	meeting whose end time is larger than 10am </s>
+show me all meetings which have only one location	meeting that has less than two location </s>
+who has attended the weekly standup meeting	attendee of weekly standup </s>
+who are the people attending at least two different meetings	person that is attendee of at least two meeting </s>
+what meeting who starts right right after weekly standup	meeting whose start time is at least end time of weekly standup </s>
+show me all meetings that have two or fewer attendees	meeting that has at most two attendee </s>
+what meeting ends before 3pm or 10am	meeting whose end time is smaller than 10am or 3pm </s>
+what meetings have no more than two different locations	meeting that has at most two location </s>
+meetings that are longer than three hours or longer than an hour	meeting whose length is larger than three hours or one hour </s>
+show me all the meetings that have two or more participants	meeting that has at least two attendee </s>
+show me all meetings beginning at 10 am which are three hours long	meeting whose start time is 10am and whose length is three hours </s>
+meeting with fewest locations	meeting that has the least number of location </s>
+what three hour meeting is at greenberg cafe	meeting whose location is greenberg cafe and whose length is three hours </s>
+show me all attendees of the weekly standup meeting	person that is attendee of weekly standup </s>
+show me all meetings on january 2nd which are three hours long	meeting whose date is jan 2 and whose length is three hours </s>
+which important meeting starts at 10 in the morning	meeting whose start time is 10am and that is important </s>
+show me all meetings which end at the same time or later than the weekly standup meeting begins	meeting whose end time is at least start time of weekly standup </s>
+show me meeting happening after the day of weekly standup	meeting whose date is larger than date of weekly standup </s>
+find me a meeting that ends 10am or later	meeting whose end time is at least 10am </s>
+what meeting starts at 10am and ends at 10am q	meeting whose start time is 10am and whose end time is 10am </s>
+what meeting was on or before jan 2	meeting whose date is at most jan 2 </s>
+who is the person attending  more than two meetings	person that is attendee of more than two meeting </s>
+meeting at greenberg cafe ends at 1000 am	meeting whose location is greenberg cafe and whose end time is 10am </s>
+show me all meetings ending at or after 10 am	meeting whose end time is at least 10am </s>
+what important meeting has a start time at 10am	meeting whose start time is 10am and that is important </s>
+show me all meetings with alice	meeting whose attendee is alice </s>
+show me meetings after the weekly standup day	meeting whose date is at least date of weekly standup </s>
+location of meetings that start at 10am	location that is location of meeting whose start time is 10am </s>
+what meeting has length shorter than one to three hours	meeting whose length is smaller than three hours or one hour </s>
+what meeting has less than two locations	meeting that has less than two location </s>
+what meeting has a date earlier than weekly startup	meeting whose date is smaller than date of weekly standup </s>
+show me all three hour meetings that alice is attending	meeting whose attendee is alice and whose length is three hours </s>
+neighborhoods with more than two apartment complexes	neighborhood that is neighborhood of more than two housing unit </s>
+housing allowing dogs that was posted on january 2	housing unit whose posting date is jan 2 and that allows dogs </s>
+which housing unit has the rent of 123 sesame street	housing unit whose monthly rent is at least monthly rent of 123 sesame street </s>
+which housing unit is available for a rent of 1500 2000 dollars	housing unit whose monthly rent is at least 1500 dollars or 2000 dollars </s>
+housing unit whose monthly rent is 1500 dollars	housing unit whose monthly rent is 1500 dollars and whose monthly rent is 1500 dollars </s>
+housing unit at most 800 or 1000 square feet	housing unit whose size is at most 800 square feet or 1000 square feet </s>
+find pet friendly housing units	housing unit that allows cats and that allows dogs </s>
+housing units with a posting date of january 2nd that are located in midtown west	housing unit whose posting date is jan 2 and whose neighborhood is midtown west </s>
+what kind of housing has the least number of units	housing type that is housing type of the least number of housing unit </s>
+find 800 square feet housing units	housing unit whose size is 800 square feet and whose size is 800 square feet </s>
+housing that are either apartments or houses for rent	housing unit that has at most two housing type </s>
+which housing provides a private room where dogs are allowed	housing unit that has a private room and that allows dogs </s>
+which 1500monthly rentals come with private room	housing unit whose monthly rent is 1500 dollars and that has a private room </s>
+what is the average monthly rent	average monthly rent of housing unit </s>
+housing unit as costly as the rent of the homes in 123 sesame street	housing unit whose monthly rent is at least monthly rent of 123 sesame street </s>
+private room for 1500 a month	housing unit whose monthly rent is 1500 dollars and that has a private room </s>
+housing of more than two types	housing unit that has more than two housing type </s>
+housing unit smaller than 800 or 1000 square feet	housing unit whose size is smaller than 800 square feet or 1000 square feet </s>
+which housing unit with the highest rent	housing unit that has the largest monthly rent </s>
+housing units that are smaller than 123 sesame street	housing unit whose size is smaller than size of 123 sesame street </s>
+housing with private bath that was posted on january 2	housing unit whose posting date is jan 2 and that has a private bath </s>
+find housing units with rental charges lesser than that of 123 sesame street	housing unit whose monthly rent is smaller than monthly rent of 123 sesame street </s>
+housing units bigger than homes on 123 sesame street	housing unit whose size is larger than size of 123 sesame street </s>
+housing unit that is the same as the ones on 123 sesame street or 900 mission ave	housing type that is housing type of 123 sesame street or 900 mission ave </s>
+which housing unit has a private bath and an area of 800 square feet	housing unit whose size is 800 square feet and that has a private bath </s>
+housing units that are posted on january end and have a total size of 800 square feet	housing unit whose posting date is jan 2 and whose size is 800 square feet </s>
+neighborhoods with catfriendly housing	neighborhood that is neighborhood of housing unit that allows cats </s>
+housing with monthly rent less than 1500 dollars	housing unit whose monthly rent is smaller than 1500 dollars or 2000 dollars </s>
+housing units with private room	housing unit that has a private room </s>
+housing that is smaller than 123 sesame street	housing unit whose size is smaller than size of 123 sesame street </s>
+housing near at least two neighborhoods	housing unit that has at least two neighborhood </s>
+which housing has the most amount of housing types	housing unit that has the most number of housing type </s>
+find housing units with a private room and is of the housing type apartment	housing unit whose housing type is apartment and that has a private room </s>
+apartments for 1500	housing unit whose monthly rent is 1500 dollars and whose housing type is apartment </s>
+what is the total area of a housing unit	total size of housing unit </s>
+find 800 square feet housing units with 1500 dollars as rent	housing unit whose size is 800 square feet and whose monthly rent is 1500 dollars </s>
+find the housing unit with the least monthly rent	housing unit that has the smallest monthly rent </s>
+show total number of all units	number of housing unit </s>
+what housing unit has a price of 1500 dollars and allows dogs	housing unit that allows dogs and whose monthly rent is 1500 dollars </s>
+what neighborhood contains two housing units	neighborhood that is neighborhood of two housing unit </s>
+seeking housing with rent at 1500	housing type that is housing type of housing unit whose monthly rent is 1500 dollars </s>
+housing units that are 800 square feet	housing type that is housing type of housing unit whose size is 800 square feet </s>
+housing that allows cats that posted on january 2	housing unit whose posting date is jan 2 and that allows cats </s>
+exclude housing similar to 123 sesame street	housing type that is not housing type of 123 sesame street </s>
+what housing unit posted on jan 2 allows dogs	housing unit that allows dogs and whose posting date is jan 2 </s>
+find housing units with size between 800 and 1000 square feet	housing unit whose size is smaller than 800 square feet or 1000 square feet </s>
+housing unit that is 800 square feet or larger in size	housing unit whose size is at least 800 square feet </s>
+which housing unit in midtown west permits dogs	housing unit that allows dogs and whose neighborhood is midtown west </s>
+housing available for 1500month	housing unit whose monthly rent is 1500 dollars </s>
+which housing unit permits cats and has a private room	housing unit that has a private room and that allows cats </s>
+housing unit with a private bath	housing unit that has a private bath and that has a private bath </s>
+housing unit in the neighborhood of 123 sesame street	housing unit whose neighborhood is neighborhood that is neighborhood of 123 sesame street </s>
+housing units in the midtown west area	housing unit whose neighborhood is midtown west and whose neighborhood is midtown west </s>
+housing posted on january 2 that rents out for 1500 dollar per month	housing unit whose posting date is jan 2 and whose monthly rent is 1500 dollars </s>
+what kinds of housing is there in midtown west	housing type that is housing type of housing unit whose neighborhood is midtown west </s>
+housing with private bath posted on january 2	housing unit that has a private bath and whose posting date is jan 2 </s>
+neighborhoods with apartments	neighborhood that is neighborhood of housing unit whose housing type is apartment </s>
+units with 1500 dollar rent	housing type that is housing type of housing unit whose monthly rent is 1500 dollars </s>
+what housing units have a small amount of housing units	housing type that is housing type of the least number of housing unit </s>
+which area has the least number of housing units	housing unit that has the least number of neighborhood </s>
+apartments in midtown west	housing unit whose neighborhood is midtown west and whose housing type is apartment </s>
+housing 800 sf in size posted on january 2	housing unit whose size is 800 square feet and whose posting date is jan 2 </s>
+which housing unit permits cats inside it and has a private room	housing unit that allows cats and that has a private room </s>
+list available neighborhoods besides 123 sesame street	neighborhood that is not neighborhood of 123 sesame street </s>
+show me places with private rooms where dogs are welcome	housing unit that allows dogs and that has a private room </s>
+housing neighborhood that was posted on january 2	neighborhood that is neighborhood of housing unit whose posting date is jan 2 </s>
+which housing unit in midtown area has a monthly rent of 1500 dollars	housing unit whose neighborhood is midtown west and whose monthly rent is 1500 dollars </s>
+what is the date on which 123 sesame street was posted	posting date of 123 sesame street </s>
+find housing units in the neighborhoods of midtown west or chelsea	housing unit whose neighborhood is midtown west or chelsea </s>
+find housing units with a private room and is of size 800 square feet	housing unit whose size is 800 square feet and that has a private room </s>
+housing in midtown west with 1500month rent	housing unit whose monthly rent is 1500 dollars and whose neighborhood is midtown west </s>
+show me the same kind of housing as 123 sesame street	housing unit whose housing type is housing type that is housing type of 123 sesame street </s>
+dogfriendly hosing that is 800 square feet	housing unit that allows dogs and whose size is 800 square feet </s>
+neighborhood with less than two housing	neighborhood that is neighborhood of less than two housing unit </s>
+dogfriendly apartments	housing unit that allows dogs and whose housing type is apartment </s>
+housing in midtown west that costs 1500month	housing unit whose neighborhood is midtown west and whose monthly rent is 1500 dollars </s>
+find housing units with rental charges between 1500 and 2000 dollars	1500 dollars or 2000 dollars </s>
+apartment complexes with the most units available	housing type that is housing type of the most number of housing unit </s>
+find apartments with a private room	housing unit that has a private room and whose housing type is apartment </s>
+what neighborhoods have apartments	neighborhood that is neighborhood of housing unit whose housing type is apartment </s>
+housing units with a private bath and a 1500 dollar monthly rent	housing unit whose monthly rent is 1500 dollars and that has a private bath </s>
+which housing has two types	housing unit that has two housing type </s>
+neighborhood that has at least two listings	neighborhood that is neighborhood of at least two housing unit </s>
+what housing that was posted on january 2 has the same rent as 123 sesame street	housing unit whose posting date is jan 2 and that is monthly rent of 123 sesame street </s>
+which housing unit offers a private room and a private bath	housing unit that has a private bath and that has a private room </s>
+building with the most kinds of units	housing unit that has the most number of housing type </s>
+most recently posted housing	housing unit that has the largest posting date </s>
+housing that is bigger than 800 square feet	housing unit whose size is larger than 800 square feet </s>
+housing with rent at 1500	neighborhood that is neighborhood of housing unit whose monthly rent is 1500 dollars </s>
+what housing unit posted on jan 2 allows cats	housing unit that allows cats and whose posting date is jan 2 </s>
+what kind of housing is at two or less housing units	housing type that is housing type of at most two housing unit </s>
+unit is 800 square feet	housing unit whose size is 800 square feet </s>
+housing unit that costs 1500 or 200 dollars in rent	housing unit whose monthly rent is 1500 dollars or 2000 dollars </s>
+what is the housing type that charges 1500 dollars as monthly rent	housing type that is housing type of housing unit whose monthly rent is 1500 dollars </s>
+neighborhoods with housing that have a private bathroom	neighborhood that is neighborhood of housing unit that has a private bath </s>
+housing units with monthly rents of 1500 dollars that posted on january 2	housing unit whose monthly rent is 1500 dollars and whose posting date is jan 2 </s>
+looking for housing in midtown west or chelsea area	midtown west or chelsea </s>
+find housing with a private bath	housing unit that has a private bath and that has a private bath </s>
+housing types of more than two units	housing type that is housing type of more than two housing unit </s>
+housing unit with a private bath and room	housing unit that has a private bath and that has a private room </s>
+housing apartments that costs 1500 dollars	housing unit whose housing type is apartment and whose monthly rent is 1500 dollars </s>
+find 800 square feet housing units that allow cats	housing unit whose size is 800 square feet and that allows cats </s>
+housing unit that costs as much rent as the homes in 123 sesame street	housing unit whose monthly rent is at most monthly rent of 123 sesame street </s>
+what is the average monthly rent of housing units	average monthly rent of housing unit </s>
+what neighborhood has two housing units	neighborhood that is neighborhood of two housing unit </s>
+housing with rent less than 1500 or less than 2000	housing unit whose monthly rent is smaller than 1500 dollars or 2000 dollars </s>
+what type of housing unit posted jan 2nd	housing unit whose housing type is housing unit whose posting date is jan 2 </s>
+housing units that have a private bath	housing unit that has a private bath </s>
+cats permitted 1500 rent monthly	housing unit whose monthly rent is 1500 dollars and that allows cats </s>
+housing that is more expensive than 123 sesame street	housing unit whose monthly rent is larger than monthly rent of 123 sesame street </s>
+where are the biggest apartments	housing unit that has the largest size </s>
+800 square feet housing unit which allows dogs	housing unit that allows dogs and whose size is 800 square feet </s>
+what is the average monthly rent of the housing units	average monthly rent of housing unit </s>
+apartment in the midtown west neighborhood	housing unit whose neighborhood is midtown west and whose neighborhood is midtown west </s>
+which housing unit permits cats inside it and has the facility of a private bath	housing unit that has a private bath and that allows cats </s>
+apartment posted at a later date than 123 sesame street	housing unit whose posting date is larger than posting date of 123 sesame street </s>
+which housing unit does not have apartment type of house	housing unit whose housing type is not apartment </s>
+housing in midtown west with 800 square feet	housing unit whose neighborhood is midtown west and whose size is 800 square feet </s>
+what is the average area  of a housing unit	average size of housing unit </s>
+which housing unit with an area of 800 square feet permits cats in it	housing unit whose size is 800 square feet and that allows cats </s>
+which unit allows dogs and has a private bath	housing unit that allows dogs and that has a private bath </s>
+which neighborhood has two housing units maximum	neighborhood that is neighborhood of at most two housing unit </s>
+unit on 123 sesame street or 900 mission avenue	123 sesame street or 900 mission ave </s>
+what kinds of housing allow dogs	housing type that is housing type of housing unit that allows dogs </s>
+housing that is the same size or smaller than 123 sesame street	housing unit whose size is at most size of 123 sesame street </s>
+which housing units permits dogs and offers a private room	housing unit that allows dogs and that has a private room </s>
+housing units that have the most housing types	housing unit that has at most two housing type </s>
+housing with 1500 rent and allows dogs	housing unit whose monthly rent is 1500 dollars and that allows dogs </s>
+what neighborhood housing units allows dogs	neighborhood that is neighborhood of housing unit that allows dogs </s>
+800 square feet apartment type housing unit	housing unit whose housing type is apartment and whose size is 800 square feet </s>
+what are the neighborhoods of 123 sesame street or 900 mission ave	neighborhood that is neighborhood of 123 sesame street or 900 mission ave </s>
+find housing units with rent as 1500 dollars	housing unit whose monthly rent is 1500 dollars and whose monthly rent is 1500 dollars </s>
+housing unit posted january 2 with the same rent as 123 sesame street	housing unit whose posting date is jan 2 and that is monthly rent of 123 sesame street </s>
+find apartments that are pet friendly	housing unit whose housing type is apartment and that allows cats </s>
+which housing unit in this area has a private room	neighborhood that is neighborhood of housing unit that has a private room </s>
+what housing units allow dogs	housing unit that allows dogs </s>
+which housing have more than 800 square feet of space	housing unit whose size is larger than 800 square feet </s>
+housing size other than 800 square feet	housing unit whose size is not 800 square feet </s>
+most expensive housing	housing unit that has the largest monthly rent </s>
+which housing unit is available for a rent of 1500 pr 2000 dollars per month	housing unit whose monthly rent is at most 1500 dollars or 2000 dollars </s>
+apartments bigger than 800 square feet	housing unit whose size is larger than 800 square feet </s>
+earliest posted housing	housing unit that has the smallest posting date </s>
+find housing units of the type apartment or condo	housing unit whose housing type is apartment or condo </s>
+which nearby area has a housing unit of 800 square feet by area	neighborhood that is neighborhood of housing unit whose size is 800 square feet </s>
+neighborhoods that do not contain 123 sesame street	neighborhood that is not neighborhood of 123 sesame street </s>
+which housing unit was posted after the posting date of 123 sesame street	housing unit whose posting date is larger than posting date of 123 sesame street </s>
+what is the smallest housing	housing unit that has the smallest size </s>
+what housing has the same posting date as those in 123 sesame street	housing unit whose posting date is at least posting date of 123 sesame street </s>
+which housing unit with an area of 800 square feet permits  cats and dogs inside it	housing unit that allows cats and whose size is 800 square feet </s>
+what housing units are in midtown west	housing unit whose neighborhood is midtown west </s>
+units with the most neighborhoods	housing unit that has the most number of neighborhood </s>
+housing with 1500 dollar rent that was posted on january 2	housing unit whose posting date is jan 2 and whose monthly rent is 1500 dollars </s>
+what is the total monthly rent	total monthly rent of housing unit </s>
+neighborhoods in 123 sesame street or 900 mission ave	neighborhood that is neighborhood of 123 sesame street or 900 mission ave </s>
+unit with same rent as 123 sesame street	housing unit whose monthly rent is monthly rent of 123 sesame street </s>
+what neighborhood has two or less housing units	neighborhood that is neighborhood of at most two housing unit </s>
+apartments between 800 and 1000 square feet	housing unit whose size is at least 800 square feet or 1000 square feet </s>
+a neighborhood with twohouse units	neighborhood that is neighborhood of two housing unit </s>
+apartments with the least amount of units	housing type that is housing type of the least number of housing unit </s>
+what housing is posted either jan 2nd or feb 3rd	housing unit whose posting date is jan 2 or feb 3 </s>
+what is the neighborhood area of that apartment	neighborhood that is neighborhood of housing unit whose housing type is apartment </s>
+housing in the same neighborhood at 123 sesame street	housing unit whose neighborhood is neighborhood that is neighborhood of 123 sesame street </s>
+housing that is cheaper than 123 sesame street	housing unit whose monthly rent is smaller than monthly rent of 123 sesame street </s>
+find housing units with rent as 1500 dollars per month	housing unit whose monthly rent is 1500 dollars </s>
+housing with monthly rent of 1500 dollars that was posted on january 2	housing unit whose monthly rent is 1500 dollars and whose posting date is jan 2 </s>
+any units costing more than 1500 a month	housing unit whose monthly rent is larger than 1500 dollars </s>
+which neighborhoods have housing with monthly rent of 1500 dollars	neighborhood that is neighborhood of housing unit whose monthly rent is 1500 dollars </s>
+what is the housing unit number	number of housing unit </s>
+looking for a pet friendly unit	housing unit that allows cats and that allows dogs </s>
+apartments posted after january 2	housing unit whose posting date is not jan 2 </s>
+housing unit whose monthly rent is not 1500 dollars	housing unit whose monthly rent is not 1500 dollars </s>
+housing unit posted at the latest january 2 or february 3	housing unit whose posting date is at most jan 2 or feb 3 </s>
+which housing unit has less than 800 square feet	housing unit whose size is not 800 square feet </s>
+what housing unit is in over two neighborhoods	housing unit that has more than two neighborhood </s>
+housing that allows cats posted on january 2	housing unit that allows cats and whose posting date is jan 2 </s>
+looking for a 2 family house	housing type that is housing type of at least two housing unit </s>
+what housing units that are at least the size of 123 sesame street	housing unit whose size is at least size of 123 sesame street </s>
+what 800 square foot housing posted jan 2nd	housing unit whose size is 800 square feet and whose posting date is jan 2 </s>
+housing that is 1500month and cats are allowed	housing unit that allows cats and whose monthly rent is 1500 dollars </s>
+the neighborhood of apartment 123 sesame street	neighborhood that is neighborhood of 123 sesame street </s>
+apartment that is below 1000 or 800 square feet	housing unit whose size is smaller than 800 square feet or 1000 square feet </s>
+find housing units with the same posting date as 123 sesame street	housing unit whose posting date is posting date of 123 sesame street </s>
+housing unit which is an apartment with a monthly rent of 1500 dollars	housing unit whose housing type is apartment and whose monthly rent is 1500 dollars </s>
+housing unit with private bath as well as private room	housing unit that has a private bath and that has a private room </s>
+apartment that allows cats	housing unit whose housing type is apartment and that allows cats </s>
+private bath in midtown west	housing unit whose neighborhood is midtown west and that has a private bath </s>
+find the neighborhood that has the least number of housing units	neighborhood that is neighborhood of the least number of housing unit </s>
+apartments with the most neighborhoods around it	housing unit that has the most number of neighborhood </s>
+what is the size of the apartment	total size of housing unit </s>
+show me all recipes from 2004	recipe whose posting date is 2004 and whose posting date is 2004 </s>
+show me recipes not for lunch	recipe that not is for lunch </s>
+on average how long does the recipe take to cook	average cooking time of recipe </s>
+which recipe has a lesser preparation time than that of rice pudding	recipe whose preparation time is smaller than preparation time of rice pudding </s>
+which recipe  that uses milk for its preparation was posted in 2004	recipe whose posting date is 2004 and that requires milk </s>
+on average how long is the prep time of the recipe	average preparation time of recipe </s>
+what recipes are for for two or more meals	recipe that is for more than two meal </s>
+show me total number of meals	number of meal </s>
+what recipe takes longer to prep than rice pudding takes to cook	recipe whose preparation time is larger than cooking time of rice pudding </s>
+which recipes prep time is the same as the cook time of rice pudding	recipe whose preparation time is cooking time of rice pudding </s>
+what recipe requires no more cooking time than rice pudding	recipe whose cooking time is at most preparation time of rice pudding </s>
+what is the preparation time of rice pudding	preparation time of rice pudding </s>
+which recipes serve more than two meals	recipe that is for more than two meal </s>
+recipe need two ingredients	recipe that requires two ingredient </s>
+what recipe is designed for the most number of meals	recipe that is for the most number of meal </s>
+a recipe which posted either in 2004 or 2010	recipe whose posting date is 2004 or 2010 </s>
+what recipe calls for the same ingredients as rice pudding	recipe that requires ingredient that rice pudding requires </s>
+show me recipes with preparation time less than cooking time for rice pudding	recipe whose preparation time is smaller than cooking time of rice pudding </s>
+show me all recipes require milk	recipe that requires milk and that requires milk </s>
+what recipe has the least posting date	recipe that has the smallest posting date </s>
+what meal has the least recipes available	meal that the least number of recipe is for </s>
+show me recipes for more than two cuisines	recipe that has more than two cuisine </s>
+recipe with largest posting date	recipe that has the largest posting date </s>
+show me recipes that could be used for one or two meals	recipe that is for at most two meal </s>
+which recipes are for less than two meals	recipe that is for less than two meal </s>
+show me recipes posted in 2004 or in 2010	recipe whose posting date is 2004 or 2010 </s>
+which recipe has milk as its ingredient for lunch	recipe that requires milk and that is for lunch </s>
+what meal has a recipe requiring milk	meal that recipe that requires milk is for </s>
+show me recipes with preparation time equal to or less than cooking time for rice pudding	recipe whose preparation time is at most cooking time of rice pudding </s>
+which recipes has more than two cuisines	recipe that has more than two cuisine </s>
+what recipe has the most cuisine	recipe that has the most number of cuisine </s>
+what recipes posting date is the same as rice pudding	recipe whose posting date is posting date of rice pudding </s>
+show me recipes for the fewest cuisines	recipe that has the least number of cuisine </s>
+what recipe has no greater than two cuisines	recipe that has more than two cuisine </s>
+show me recipes with the most cooking time	recipe that has the largest cooking time </s>
+show me recipes that require milk or spinach	recipe that requires milk or spinach </s>
+show the recipes with smallest preparation time	recipe that has the smallest preparation time </s>
+recipes posted in 2004 that require milk	recipe that requires milk and whose posting date is 2004 </s>
+show me recipes with cooking times shorter than cooking time of rice pudding	recipe whose cooking time is smaller than cooking time of rice pudding </s>
+what recipe was posted after the date  rice pudding	recipe whose posting date is larger than posting date of rice pudding </s>
+which recipe belongs to more than two cuisines	recipe that has more than two cuisine </s>
+what recipe takes the same time to cook as rice pudding takes to prep	recipe whose cooking time is preparation time of rice pudding </s>
+show me recipes for meals for two	recipe that is for at most two meal </s>
+what meal did that recipe i used for lunch go with	meal that recipe that is for lunch is for </s>
+what recipe makes the same type of cuisine as rice pudding	recipe whose cuisine is cuisine of rice pudding </s>
+which recipes take at most as long to cook as rice pudding	recipe whose cooking time is at most cooking time of rice pudding </s>
+what recipe is fastest prepared 	recipe that has the smallest preparation time </s>
+which ingredient is used for at most two recipes	ingredient that at most two recipe requires </s>
+which recipes take longer to cook than rice pudding does to prepare	recipe whose cooking time is larger than preparation time of rice pudding </s>
+what recipes are for lunch	recipe that is for lunch and that is for lunch </s>
+what is an ingredient found in the fewest recipes	ingredient that the least number of recipe requires </s>
+what ingredient is called for in the same recipe as milk	ingredient that recipe that requires milk requires </s>
+what meal has the most recipes for it	meal that the most number of recipe is for </s>
+what recipe is for more than two meals	recipe that is for more than two meal </s>
+which recipe needs the shortest cooking time	recipe that has the smallest cooking time </s>
+the receipe posting date is 2004	recipe whose posting date is 2004 and whose posting date is 2004 </s>
+a recipe which posted after 2004	recipe whose posting date is 2004 </s>
+what recipes take less time to cook than rice pudding	recipe whose cooking time is smaller than cooking time of rice pudding </s>
+what is the total prep time of the recipe	total preparation time of recipe </s>
+what is a recipe for a meal with rice pudding	recipe that is for meal that rice pudding is for </s>
+show me recipes with a preparation time that is longer than rice puddings cooking time	recipe whose preparation time is larger than cooking time of rice pudding </s>
+what recipe can be prepped in the same time as rice pudding can be cooked	recipe whose preparation time is cooking time of rice pudding </s>
+recipes posted after posting rice pudding recipe	recipe whose posting date is larger than posting date of rice pudding </s>
+which recipe requires the longest cooking time	recipe that has the largest cooking time </s>
+find me all recipes requires milk or spinach	recipe that requires milk or spinach </s>
+what recipes cooking time is at most that of rice puddings preparation time	recipe whose cooking time is at most preparation time of rice pudding </s>
+what is the average cooking time of this recipe	average cooking time of recipe </s>
+what recipes have a common ingredient in rice pudding	recipe that requires ingredient that rice pudding requires </s>
+recipe with posting date same as rice pudding	recipe whose posting date is posting date of rice pudding </s>
+which recipe posted in 2004 requires milk	recipe whose posting date is 2004 and that requires milk </s>
+show me recipes with preparation time less than rice pudding	recipe whose preparation time is smaller than preparation time of rice pudding </s>
+what cuisine is rice pudding	cuisine of rice pudding </s>
+what recipe calling for milk makes something for lunch	recipe that requires milk and that is for lunch </s>
+what recipe has a prep time at least as long as the cooking time of rice pudding	recipe whose preparation time is at least cooking time of rice pudding </s>
+what recipe posted before 2004 or 2010	recipe whose posting date is smaller than 2004 or 2010 </s>
+what meal has more than two recipes for it	meal that more than two recipe is for </s>
+what is the meal of a recipe posted in 2004	meal that recipe whose posting date is 2004 is for </s>
+what recipe has the longest preparation time	recipe that has the largest preparation time </s>
+which meal has the most number of recipes	meal that the most number of recipe is for </s>
+what recipe is for a dish that takes longer to cook than does rice pudding	recipe whose cooking time is larger than cooking time of rice pudding </s>
+how many recipes are there	number of recipe </s>
+recipe of one cuisine	recipe that has less than two cuisine </s>
+which ingredients are used in more than two recipes	ingredient that more than two recipe requires </s>
+which meal recipe requires milk for preparation	meal that recipe that requires milk is for </s>
+in which meal rice pudding cannot be used as part 	meal that rice pudding not is for </s>
+which recipe is found in many cuisines	recipe that has the most number of cuisine </s>
+show me recipes with longer preparation times than rice pudding	recipe whose preparation time is larger than preparation time of rice pudding </s>
+show me recipes that take longer to cook than rice pudding	recipe whose preparation time is larger than preparation time of rice pudding </s>
+what meal is the rice pudding recipe	recipe that is for meal that rice pudding is for </s>
+what recipe has the longest cooking time	recipe that has the largest cooking time </s>
+what recipe can be used for a lunch or dinner meal	recipe that is for lunch or dinner </s>
+what recipes posting date is in 2004 and requires milk	recipe that requires milk and whose posting date is 2004 </s>
+find a recipe for a small meal	recipe that is for the least number of meal </s>
+recipe cooked in preparation time of rice pudding or less	recipe whose cooking time is at most preparation time of rice pudding </s>
+which recipes were not posted in 2004	recipe whose posting date is not 2004 </s>
+what ingredient is called for in two recipes	ingredient that two recipe requires </s>
+which recipe does not need milk	recipe that not requires milk </s>
+recipe with more preparation time than rice pudding	recipe whose preparation time is larger than cooking time of rice pudding </s>
+what ingredient is used by the least number of recipes	ingredient that the least number of recipe requires </s>
+which recipe follows one cuisine	recipe that has less than two cuisine </s>
+recipe for at least two meal	recipe that is for at least two meal </s>
+recipes that require greater time to prepare than rice pudding	recipe whose preparation time is larger than preparation time of rice pudding </s>
+what recipes need the most ingrediants	recipe that requires the most number of ingredient </s>
+which are non lunch recipes	recipe that not is for lunch </s>
+what ingredient is needed for more than two recipes	ingredient that more than two recipe requires </s>
+what meals have at least two recipes	meal that at least two recipe is for </s>
+what is the total cooking time summed across all recipes	total cooking time of recipe </s>
+what ingredients does both recipes share	ingredient that at least two recipe requires </s>
+show me all recipes posted in 2004	recipe whose posting date is 2004 and whose posting date is 2004 </s>
+what is a recipe requiring milk	meal that recipe that requires milk is for </s>
+what recipe requires two ingredients	recipe that requires two ingredient </s>
+which recipes were posted by 2004	recipe whose posting date is at least 2004 </s>
+which recipe needs a longer preparation time than rice pudding	recipe whose cooking time is larger than cooking time of rice pudding </s>
+show me lunch recipes that use milk	recipe that requires milk and that is for lunch </s>
+what recipe requires a cooking time at least as long as rice pudding	recipe whose cooking time is at least preparation time of rice pudding </s>
+what ingredients does rice pudding or quiche need	ingredient that rice pudding or quiche requires </s>
+show me cooking time of rice pudding	cooking time of rice pudding </s>
+what meal has the most number of recipes	meal that the most number of recipe is for </s>
+what recipes are required by two recipes or less	ingredient that at most two recipe requires </s>
+what recipe has a posting date of 2004 and is lunch	recipe whose posting date is 2004 and that is for lunch </s>
+show me recipes posted on the same day as rice pudding	recipe whose posting date is posting date of rice pudding </s>
+what is the average cooking time across all recipes	average cooking time of recipe </s>
+which recipes take less time to cook than to prepare rice pudding	recipe whose cooking time is smaller than preparation time of rice pudding </s>
+what is the total time taken to prepare the dish	total preparation time of recipe </s>
+which ingredient is used for less than two recipes	ingredient that less than two recipe requires </s>
+show me recipes that take as long to cook as it takes to prepare rice pudding or quicker	recipe whose cooking time is at most preparation time of rice pudding </s>
+what recipe is for most meals	recipe that is for the most number of meal </s>
+which meal has the least number of recipes	meal that the least number of recipe is for </s>
+how many meals are there	number of meal </s>
+recipe that needs milk	recipe that requires milk </s>
+recipe for more than two meals	recipe that is for more than two meal </s>
+show me recipes that are the same cuisine as rice pudding	recipe whose cuisine is cuisine of rice pudding </s>
+what is the preparation time of rice pudding	preparation time of rice pudding </s>
+recipe that with smallest preparation time	recipe that has the smallest preparation time </s>
+recipes prepare in same or less time for cooking rice pudding	recipe whose preparation time is at most cooking time of rice pudding </s>
+what recipe was posted later than rice pudding	recipe whose posting date is larger than posting date of rice pudding </s>
+what recipes preparation time is the greatest	recipe that has the largest preparation time </s>
+recipe for lunch	recipe that is for lunch </s>
+how long does rice pudding take to prepare	preparation time of rice pudding </s>
+show me recipes with cooking time equal to or less than the preparation time for rice pudding	recipe whose cooking time is at most preparation time of rice pudding </s>
+which recipe needs milk for  its preparation	ingredient that recipe that requires milk requires </s>
+which recipe is for two meals	recipe that is for two meal </s>
+which recipes take less time to prepare than rice pudding	recipe whose preparation time is smaller than preparation time of rice pudding </s>
+show me recipes designed for two meals or less	recipe that is for at most two meal </s>
+what recipe has two cuisine	recipe that has two cuisine </s>
+show me recipes that fall under at least two cuisines	recipe that has less than two cuisine </s>
+which recipe takes longer to prepare rice pudding	recipe whose preparation time is larger than preparation time of rice pudding </s>
+show me recipes posted in 2004 or later	recipe whose posting date is at least 2004 </s>
+which recipes take less time to cook than rice pudding	recipe whose cooking time is smaller than cooking time of rice pudding </s>
+what ingredient is required by the least recipes	ingredient that the least number of recipe requires </s>
+which meal has the most recipes for it	meal that the most number of recipe is for </s>
+show me recipes that require a maximum cooking time as rice pudding	recipe whose cooking time is at most cooking time of rice pudding </s>
+recipe posted on the same date of posting of rice pudding	recipe whose posting date is posting date of rice pudding </s>
+which recipes dont need milk	recipe that not requires milk </s>
+what recipes preparation time is the same as rice puddings cooking time	recipe whose preparation time is cooking time of rice pudding </s>
+meal that rice pudding and quiche can be used	meal that rice pudding or quiche is for </s>
+how long does rice pudding take to prepare	preparation time of rice pudding </s>
+what are ingredients of rice pudding	recipe that requires ingredient that rice pudding requires </s>
+which recipe needs less time to cook than rice pudding	recipe whose preparation time is smaller than cooking time of rice pudding </s>
+what is the number of recipes	number of recipe </s>
+what recipe requires two or more ingredients	recipe that requires at least two ingredient </s>
+recipe with preparation time not less than that of rice pudding	recipe whose cooking time is at least preparation time of rice pudding </s>
+what recipe was posted during or before 2010	recipe whose posting date is at most 2004 or 2010 </s>
+what recipes prep time is longer than the cook time for rice pudding	recipe whose preparation time is larger than cooking time of rice pudding </s>
+what is the cooking time for this recipe	total cooking time of recipe </s>
+show me the recipe that takes the least time to prepare	recipe that has the smallest cooking time </s>
+show me lunch recipes posted in 2004	recipe whose posting date is 2004 and that is for lunch </s>
+what recipes takes as long to cook as rice pudding	recipe whose preparation time is at most cooking time of rice pudding </s>
+how many total meals are there	number of meal </s>
+what recipe can make two or more meals	recipe that is for at least two meal </s>
+which recipes require only a single ingredient	recipe that requires less than two ingredient </s>
+show me recipes with two cuisines	recipe that has two cuisine </s>
+a recipe for a lunch meal	recipe that is for lunch </s>
+what recipes posting date is at least in 2004	recipe whose posting date is at least 2004 </s>
+what is a recipe of two different cuisines	recipe that has two cuisine </s>
+what meal is rice pudding or quiche intended for	meal that rice pudding or quiche is for </s>
+what ingredient is used by less than two recipes	ingredient that less than two recipe requires </s>
+recipe posted in 2004	recipe whose posting date is 2004 </s>
+name a recipe for lunch or dinner	recipe that is for lunch or dinner </s>
+what recipes were posted at or before rice pudding	recipe whose posting date is at most posting date of rice pudding </s>
+how long does it take to prepare the recipe	average preparation time of recipe </s>
+what recipe takes the longest to prepare	recipe that has the largest preparation time </s>
+when was the rice pudding recipe posted	posting date of rice pudding </s>
+show me ingredients for rice pudding or quiche	ingredient that rice pudding or quiche requires </s>
+a recipe which posted in 2004 or later	recipe whose posting date is at least 2004 </s>
+how many ingredients are in this recipe	number of ingredient </s>
+what is a recipe for rice pudding or quiche	rice pudding or quiche </s>
+what is the number of ingredients in total	number of ingredient </s>
+which recipe belongs to two cuisines	recipe that has at most two cuisine </s>
+which recipe was posted first	recipe that has the smallest posting date </s>
+which meals is rice pudding not intended for	meal that rice pudding not is for </s>
+what recipe calls for the most ingredients	recipe that requires the most number of ingredient </s>
+what is the cooking time of rice pudding	cooking time of rice pudding </s>
+which meal has the most number of recipes	meal that the most number of recipe is for </s>
+what ingredient is called for by a lunch recipe	ingredient that recipe that is for lunch requires </s>
+what meals are at most two recipes for	meal that at most two recipe is for </s>
+recipe not posted in 2004	recipe whose posting date is not 2004 </s>
+which recipe was posted in 2004 and is for lunch	recipe whose posting date is 2004 and that is for lunch </s>
+what recipes preparation time is greater than the cooking time for rice pudding	recipe whose preparation time is larger than cooking time of rice pudding </s>
+for what meal is rice pudding or quiche used for	meal that rice pudding or quiche is for </s>
+what recipes preparation time is no lesser than the cooking time for rice pudding	recipe whose preparation time is at least cooking time of rice pudding </s>
+recipe whose posting date is after that of rice pudding	recipe whose posting date is larger than posting date of rice pudding </s>
+show me recipes requiring fewest ingredients	recipe that requires the least number of ingredient </s>
+what is the minimum time required to prepare rice pudding	recipe whose cooking time is at least preparation time of rice pudding </s>
+recipe prepared in preparation time of rice pudding	recipe whose preparation time is preparation time of rice pudding </s>
+what recipe has less than two cuisines	recipe that has less than two cuisine </s>
+tell me recipethat at most require two ingredients	ingredient that at most two recipe requires </s>
+find recipes that are made with two ingredients	recipe that requires two ingredient </s>
+is it the recipe for rice pudding or quiche	rice pudding or quiche </s>
+recipe for meal same as rice pudding	recipe that is for meal that rice pudding is for </s>
+what is a meal for which you can find more than two recipes	meal that more than two recipe is for </s>
+what recipe has the smallest cooking time	recipe that has the smallest cooking time </s>
+show me recipes with a preparation time equal to or greater than rice pudding	recipe whose preparation time is at least preparation time of rice pudding </s>
+what recipes are prepared in cooking time of rice pudding	recipe whose cooking time is preparation time of rice pudding </s>
+which is the latest recipe posted	recipe that has the largest posting date </s>
+recipe with most cuisine	recipe that has the most number of cuisine </s>
