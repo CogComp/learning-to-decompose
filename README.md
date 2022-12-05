@@ -1,4 +1,4 @@
-# Learning to Decompose (WIP)
+# Learning to Decompose
 Code, model and data for [Zhou et al. 2022: Learning to Decompose: Hypothetical Question Decomposition Based on Comparable Texts](https://arxiv.org/pdf/2210.16865.pdf).
 We are currently working on making this package easier to use, any advice is welcomed. 
 
