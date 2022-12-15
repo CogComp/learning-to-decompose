@@ -48,7 +48,7 @@ The DecompEntail pipeline can be run with the following steps:
 See the following paper: 
 ```
 @inproceedings{ZRYR22,
-    author = {Ben Zhou, Kyle Richardson, Xiaodong Yu and Dan Roth},
+    author = {Ben Zhou and Kyle Richardson and Xiaodong Yu and Dan Roth},
     title = {Learning to Decompose: Hypothetical Question Decomposition Based on Comparable Texts},
     booktitle = {EMNLP},
     year = {2022},
